@@ -2,7 +2,7 @@ import json
 import os
 import re
 from pathlib import Path
-from typing import Any
+from typing import Any, Dict, List, Optional
 
 from flask import Flask, abort, flash, redirect, render_template, request, session, url_for
 
@@ -82,7 +82,7 @@ PROFILE = {
 }
 
 # Load internships once at startup from the JSON file
-def _load_internships() -> list[dict[str, Any]]:
+def _load_internships() -> List[Dict[str, Any]]:
     return json.loads(DATA_FILE.read_text(encoding="utf-8"))
 
 INTERNSHIPS: list[dict[str, Any]] = _load_internships()
@@ -130,12 +130,12 @@ def posted_days(posted: str) -> int:
 
 def get_internships(
     q: str = "",
-    fields: list[str] | None = None,
-    durations: list[str] | None = None,
-    modes: list[str] | None = None,
-    cities: list[str] | None = None,
+    fields: Optional[List[str]] = None,
+    durations: Optional[List[str]] = None,
+    modes: Optional[List[str]] = None,
+    cities: Optional[List[str]] = None,
     sort: str = "match",
-) -> list[dict[str, Any]]:
+) -> List[Dict[str, Any]]:
     fields = fields or []
     durations = durations or []
     modes = modes or []
@@ -170,13 +170,13 @@ def get_internships(
     return filtered
 
 
-def get_internship(internship_id: str) -> dict[str, Any] | None:
+def get_internship(internship_id: str) -> Optional[Dict[str, Any]]:
     return next((i for i in INTERNSHIPS if i["id"] == internship_id), None)
 
 
 # ── App factory ───────────────────────────────────────────────────────────────
 
-def create_app(test_config: dict[str, Any] | None = None) -> Flask:
+def create_app(test_config: Optional[Dict[str, Any]] = None) -> Flask:
     app = Flask(__name__)
     app.config["SECRET_KEY"] = os.environ.get("SECRET_KEY", "dev-only-change-me")
     if test_config:
