@@ -1,0 +1,388 @@
+[
+  {
+    "id": "1",
+    "role": "Frontend Developer Intern",
+    "company": "OCP Digital",
+    "logo": "OCP",
+    "logoBg": "from-primary to-clay",
+    "location": "Casablanca",
+    "remote": "Hybrid",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Tailwind"
+    ],
+    "match": 94,
+    "posted": "2 days ago",
+    "stipend": "4 500 MAD/mo",
+    "description": "Join the digital transformation team at OCP. Build internal dashboards used by thousands of engineers across mining sites in Morocco.",
+    "longDescription": "As a Frontend Developer Intern at OCP Digital, you'll join a 12-person product squad rebuilding the internal operations cockpit used daily by mining engineers in Khouribga, Benguerir and Youssoufia. You'll ship real features to production from week 2, pair with senior engineers, and own at least one end-to-end module by the end of your internship. This program is part of OCP's Génération Talents initiative and has converted 78% of past interns into full-time hires.",
+    "responsibilities": [
+      "Build production React components for the operations cockpit (dashboards, charts, forms)",
+      "Implement designs from Figma with Tailwind CSS, ensuring accessibility and responsive behavior",
+      "Integrate REST and GraphQL APIs with TanStack Query and write meaningful unit tests",
+      "Participate in code reviews, sprint planning and retros with the squad",
+      "Present a final project to the Digital leadership team at the end of the internship"
+    ],
+    "requirements": [
+      "3rd year or Master's student in Computer Science or related field",
+      "Solid JavaScript fundamentals and at least one React project (school or personal)",
+      "Comfortable with Git and collaborative workflows",
+      "French or English (B2+) — Arabic is a plus"
+    ],
+    "niceToHave": [
+      "TypeScript experience",
+      "Familiarity with Tailwind or any utility-first CSS framework",
+      "Exposure to testing (Vitest, Jest, Playwright)"
+    ],
+    "perks": [
+      "4 500 MAD monthly stipend",
+      "Hybrid: 3 days office (Casa Anfa) / 2 days remote",
+      "Lunch vouchers + transport allowance",
+      "Mentorship from a senior engineer",
+      "Free access to internal training catalog"
+    ],
+    "startDate": "March 2026",
+    "openings": "3 positions",
+    "teamSize": "Squad of 12 (4 engineers, 2 designers, 1 PM, QA, data)",
+    "aboutCompany": "OCP Group is the world's largest exporter of phosphate. OCP Digital is its in-house tech arm in Casablanca, building the software that powers mining, logistics and industrial operations across Morocco.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Submit your CV and a short motivation note (5 min)"
+      },
+      {
+        "step": "Screening call",
+        "desc": "30-min chat with the talent team"
+      },
+      {
+        "step": "Technical assessment",
+        "desc": "Take-home React exercise (2 days)"
+      },
+      {
+        "step": "Final interview",
+        "desc": "Meet your future tech lead and a peer"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "role": "Data Analyst Intern",
+    "company": "Inwi",
+    "logo": "in",
+    "logoBg": "from-zellige to-success",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "2 months",
+    "field": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "match": 88,
+    "posted": "5 days ago",
+    "stipend": "3 800 MAD/mo",
+    "description": "Analyze customer behavior across mobile and broadband segments.",
+    "longDescription": "Join Inwi's Customer Insights team in Rabat to dig into the behavior of millions of mobile and fiber subscribers. You'll build dashboards used by marketing and product leadership and contribute to the churn-prediction model.",
+    "responsibilities": [
+      "Write SQL queries against the customer data warehouse (BigQuery)",
+      "Build and maintain Power BI dashboards for marketing and product teams",
+      "Support the data science team on a churn-prediction modeling project",
+      "Document findings and present weekly insights to stakeholders"
+    ],
+    "requirements": [
+      "Master's student in Statistics, Data Science, Engineering or equivalent",
+      "Strong SQL skills (joins, window functions)",
+      "Working knowledge of Python (pandas, numpy)",
+      "French (C1) — English is a plus"
+    ],
+    "niceToHave": [
+      "Power BI or Tableau",
+      "scikit-learn basics",
+      "Telecom industry curiosity"
+    ],
+    "perks": [
+      "3 800 MAD monthly stipend",
+      "On-site at Inwi HQ, Rabat (Hay Riad)",
+      "Lunch on-site",
+      "Possibility of full-time conversion"
+    ],
+    "startDate": "February 2026",
+    "openings": "2 positions",
+    "teamSize": "Customer Insights team (6 analysts, 2 data scientists)",
+    "aboutCompany": "Inwi is one of Morocco's three telecom operators, serving millions of mobile and fiber customers. Headquartered in Rabat.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Submit your CV — no cover letter required"
+      },
+      {
+        "step": "SQL test",
+        "desc": "Online 45-min SQL & analytics quiz"
+      },
+      {
+        "step": "Case study",
+        "desc": "Live case interview with the Insights lead"
+      },
+      {
+        "step": "Final interview",
+        "desc": "Meet the Head of Data"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "role": "UX Design Intern",
+    "company": "CIH Bank",
+    "logo": "CIH",
+    "logoBg": "from-clay to-warning",
+    "location": "Casablanca",
+    "remote": "Hybrid",
+    "duration": "3 months",
+    "field": "Design",
+    "skills": [
+      "Figma",
+      "Research",
+      "Prototyping"
+    ],
+    "match": 81,
+    "posted": "1 week ago",
+    "stipend": "4 000 MAD/mo",
+    "description": "Redesign mobile banking flows for first-time users.",
+    "longDescription": "CIH Bank's Digital Studio is rethinking the mobile banking experience for first-time users — students, young professionals and unbanked Moroccans. As a UX intern you'll co-lead user research and deliver redesigned flows that ship to the live app.",
+    "responsibilities": [
+      "Run user interviews with first-time banking customers",
+      "Synthesize research into journey maps and opportunity areas",
+      "Design and prototype redesigned onboarding & transfer flows in Figma",
+      "Collaborate with engineers on handoff and QA"
+    ],
+    "requirements": [
+      "Design school or related Master's student",
+      "Portfolio with at least 2 case studies (school or personal)",
+      "Proficient in Figma",
+      "French (C1)"
+    ],
+    "niceToHave": [
+      "Arabic-first design experience",
+      "Motion / Lottie",
+      "User research methodology coursework"
+    ],
+    "perks": [
+      "4 000 MAD monthly stipend",
+      "Hybrid (2 days office, 3 days remote)",
+      "Mentorship from senior product designer",
+      "Figma Pro license"
+    ],
+    "startDate": "April 2026",
+    "openings": "1 position",
+    "teamSize": "Digital Studio (3 designers, 5 engineers, 1 PM)",
+    "aboutCompany": "CIH Bank is one of Morocco's leading banks, with a strong focus on digital innovation through its Digital Studio in Casablanca.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Submit CV + portfolio link"
+      },
+      {
+        "step": "Portfolio review",
+        "desc": "30-min walkthrough with design lead"
+      },
+      {
+        "step": "Design exercise",
+        "desc": "Take-home redesign brief (3 days)"
+      },
+      {
+        "step": "Final interview",
+        "desc": "Meet the Head of Design and the PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "role": "Marketing Intern",
+    "company": "Marjane",
+    "logo": "M",
+    "logoBg": "from-primary to-warning",
+    "location": "Marrakech",
+    "remote": "On-site",
+    "duration": "2 months",
+    "field": "Marketing",
+    "skills": [
+      "Social Media",
+      "Content",
+      "Analytics"
+    ],
+    "match": 76,
+    "posted": "3 days ago",
+    "stipend": "3 200 MAD/mo",
+    "description": "Drive in-store campaigns across the southern region.",
+    "longDescription": "Support Marjane's Southern Region marketing team in Marrakech to design and run in-store campaigns across 8 hypermarkets. You'll own the content calendar for local social channels and report directly to the Regional Marketing Manager.",
+    "responsibilities": [
+      "Plan and publish weekly content for regional social channels",
+      "Coordinate with store managers to plan in-store activations",
+      "Track campaign performance and produce a weekly report",
+      "Support photo and video shoots in-store"
+    ],
+    "requirements": [
+      "Bachelor's or Master's in Marketing, Communications or Business",
+      "Solid French and Arabic written skills",
+      "Comfortable with Instagram, TikTok and Meta Business Suite"
+    ],
+    "niceToHave": [
+      "Photo/video editing (CapCut, Lightroom)",
+      "Canva or basic Figma"
+    ],
+    "perks": [
+      "3 200 MAD monthly stipend",
+      "On-site in Marrakech",
+      "Employee discount card",
+      "Travel reimbursement to other stores"
+    ],
+    "startDate": "February 2026",
+    "openings": "2 positions",
+    "teamSize": "Regional marketing team (5 people)",
+    "aboutCompany": "Marjane is Morocco's largest hypermarket chain, with over 130 stores across the kingdom. Part of Al Mada group.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Submit CV + 1 sample social post"
+      },
+      {
+        "step": "Phone screen",
+        "desc": "20-min call with HR"
+      },
+      {
+        "step": "Final interview",
+        "desc": "Meet the Regional Marketing Manager in Marrakech"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "role": "Mobile Developer Intern",
+    "company": "Maroc Telecom",
+    "logo": "IAM",
+    "logoBg": "from-zellige to-clay",
+    "location": "Remote",
+    "remote": "Remote",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "REST APIs"
+    ],
+    "match": 91,
+    "posted": "1 day ago",
+    "stipend": "5 000 MAD/mo",
+    "description": "Ship features to millions of MyIAM app users.",
+    "longDescription": "Join the MyIAM mobile team — the official self-care app used by millions of Maroc Telecom customers. You'll build and ship Flutter features end-to-end, from spec to production release on Android and iOS.",
+    "responsibilities": [
+      "Develop new features in Flutter / Dart",
+      "Integrate backend REST APIs and handle offline scenarios",
+      "Write widget and integration tests",
+      "Participate in bi-weekly releases to the Play Store and App Store"
+    ],
+    "requirements": [
+      "3rd year or Master's CS student",
+      "Hands-on Flutter or another mobile framework (React Native, Kotlin, Swift)",
+      "Solid Git workflow",
+      "French or English"
+    ],
+    "niceToHave": [
+      "Bloc / Riverpod state management",
+      "CI/CD experience (Codemagic, Fastlane)",
+      "Published a personal app"
+    ],
+    "perks": [
+      "5 000 MAD monthly stipend",
+      "Fully remote (Morocco-based)",
+      "Hardware allowance for setup",
+      "Access to Maroc Telecom internal LMS"
+    ],
+    "startDate": "March 2026",
+    "openings": "4 positions",
+    "teamSize": "Mobile guild of 18 engineers",
+    "aboutCompany": "Maroc Telecom (IAM) is the leading telecom operator in Morocco and across West Africa, serving over 75 million customers.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Submit CV and GitHub"
+      },
+      {
+        "step": "Tech screen",
+        "desc": "1h Flutter live-coding session"
+      },
+      {
+        "step": "System design",
+        "desc": "Discuss app architecture with a senior engineer"
+      },
+      {
+        "step": "Final interview",
+        "desc": "Meet the mobile guild lead"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "role": "Civil Engineering Intern",
+    "company": "TGCC",
+    "logo": "TG",
+    "logoBg": "from-warning to-clay",
+    "location": "Tangier",
+    "remote": "On-site",
+    "duration": "1 month",
+    "field": "Engineering",
+    "skills": [
+      "AutoCAD",
+      "Site management"
+    ],
+    "match": 68,
+    "posted": "1 week ago",
+    "stipend": "2 800 MAD/mo",
+    "description": "Support the Tangier Med port expansion project on-site.",
+    "longDescription": "Get hands-on experience on one of Morocco's flagship infrastructure projects: the Tangier Med port expansion. You'll shadow senior site engineers, contribute to AutoCAD drawings and learn how a 24/7 construction site is run.",
+    "responsibilities": [
+      "Assist site engineers with daily progress reports",
+      "Update AutoCAD drawings based on site changes",
+      "Participate in weekly safety walks",
+      "Help coordinate subcontractors on small tasks"
+    ],
+    "requirements": [
+      "Civil engineering student (3rd year or above)",
+      "Comfortable with AutoCAD",
+      "Willing to be on-site daily (PPE provided)",
+      "French (B2+)"
+    ],
+    "niceToHave": [
+      "Revit / BIM exposure",
+      "Driving license"
+    ],
+    "perks": [
+      "2 800 MAD monthly stipend",
+      "On-site in Tangier (housing support available)",
+      "PPE provided",
+      "Site visit to Tangier Med port"
+    ],
+    "startDate": "January 2026",
+    "openings": "5 positions",
+    "teamSize": "Site team of 40+",
+    "aboutCompany": "TGCC is one of Morocco's largest construction groups, delivering major infrastructure, residential and industrial projects across the kingdom.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Submit CV — convention de stage required"
+      },
+      {
+        "step": "HR call",
+        "desc": "15-min phone call"
+      },
+      {
+        "step": "Site interview",
+        "desc": "Half-day on-site interview in Tangier"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+{% macro logo_badge(i, size='md') -%}
+  <div class="company-logo company-logo-{{ size }} {{ i.logoBg|gradient }}">{{ i.logo }}</div>
+{%- endmacro %}
+
+{% macro match_badge(score) -%}
+  <span class="match-badge">{{ score }}% match</span>
+{%- endmacro %}
+
+{% macro score_ring(value, label='Ready', size=132) -%}
+  <div class="score-ring" style="--value: {{ value }}; width: {{ size }}px; height: {{ size }}px;">
+    <div class="score-inner">
+      <strong>{{ value }}</strong>
+      <span>{{ label }}</span>
+    </div>
+  </div>
+{%- endmacro %}
+
+{% macro internship_card(i) -%}
+  <a href="{{ url_for('internship_detail', internship_id=i.id) }}" class="internship-card card-link">
+    <div class="d-flex align-items-start justify-content-between gap-3">
+      <div class="d-flex align-items-center gap-3">
+        {{ logo_badge(i, 'md') }}
+        <div>
+          <h3 class="h6 fw-bold mb-1">{{ i.role }}</h3>
+          <p class="small text-muted mb-0">{{ i.company }}</p>
+        </div>
+      </div>
+      {{ match_badge(i.match) }}
+    </div>
+    <div class="d-flex flex-wrap gap-2 mt-3">
+      {% for skill in i.skills %}<span class="skill-pill">{{ skill }}</span>{% endfor %}
+    </div>
+    <div class="card-meta mt-4 pt-3">
+      <span>📍 {{ i.location }}</span>
+      <span>🕒 {{ i.duration }}</span>
+      <span class="mode-pill">{{ i.remote }}</span>
+      <strong class="ms-auto text-body">{{ i.stipend }}</strong>
+    </div>
+  </a>
+{%- endmacro %}
+
+{% macro section_card(title) -%}
+  <section class="section-card">
+    <h2 class="h5 fw-bold mb-3">{{ title }}</h2>
+    {{ caller() }}
+  </section>
+{%- endmacro %}

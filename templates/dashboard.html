@@ -1,0 +1,89 @@
+{% extends 'base.html' %}
+{% from 'macros.html' import logo_badge, match_badge, score_ring %}
+{% block content %}
+<section class="hero-section border-bottom">
+  <div class="container-xl py-5">
+    <span class="soft-chip mb-3">✦ Salam, {{ profile.name.split(' ')[0] }} 👋</span>
+    <h1 class="display-5 fw-bold tracking-tight mb-3">Your path to opportunity, <span class="text-gradient">one step at a time.</span></h1>
+    <p class="lead text-muted col-lg-7">You have <strong class="text-body">12 new matches</strong> this week from companies across Morocco.</p>
+  </div>
+</section>
+
+<div class="container-xl py-5">
+  <div class="row g-4">
+    <div class="col-lg-4">
+      <div class="surface-card h-100">
+        <div class="d-flex justify-content-between align-items-start">
+          <div>
+            <p class="eyebrow mb-1">Readiness Score</p>
+            <h2 class="h5 fw-bold mb-0">You're almost there</h2>
+          </div>
+          <span class="positive-chip">+8</span>
+        </div>
+        <div class="d-flex align-items-center gap-4 mt-4 flex-wrap">
+          {{ score_ring(78) }}
+          <ul class="list-unstyled small mb-0 vstack gap-2">
+            <li><span class="dot dot-success"></span> Profile complete</li>
+            <li><span class="dot dot-success"></span> CV uploaded</li>
+            <li><span class="dot dot-warning"></span> Add 2 projects</li>
+            <li><span class="dot dot-muted"></span> Mock interview</li>
+          </ul>
+        </div>
+        <a href="{{ url_for('profile_page') }}" class="arrow-link mt-4 d-inline-flex">Improve your score →</a>
+      </div>
+    </div>
+    <div class="col-lg-8">
+      <div class="row g-3">
+        <div class="col-md-4"><a class="quick-card primary" href="{{ url_for('internships') }}"><span>💼</span><strong>Explore Internships</strong><small>240+ open</small></a></div>
+        <div class="col-md-4"><a class="quick-card zellige" href="{{ url_for('career_paths') }}"><span>🧭</span><strong>Career Paths</strong><small>Discover routes</small></a></div>
+        <div class="col-md-4"><a class="quick-card clay" href="{{ url_for('profile_page') }}"><span>📄</span><strong>My Applications</strong><small>6 active</small></a></div>
+        <div class="col-12">
+          <div class="surface-card soft-bg">
+            <div class="d-flex justify-content-between align-items-center">
+              <div><p class="eyebrow mb-1">This week</p><h2 class="h6 fw-bold mb-0">Activity overview</h2></div>
+              <span class="text-success fw-bold">↗</span>
+            </div>
+            <div class="row g-3 mt-2">
+              {% for s in [{'k':'Profile views','v':'47','d':'+12'}, {'k':'Applications','v':'6','d':'+2'}, {'k':'Saved','v':'14','d':'+5'}, {'k':'Interviews','v':'2','d':'scheduled'}] %}
+                <div class="col-6 col-md-3">
+                  <div class="mini-stat"><small>{{ s.k }}</small><strong>{{ s.v }}</strong><em>{{ s.d }}</em></div>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="d-flex align-items-end justify-content-between mt-5 mb-3">
+    <div>
+      <h2 class="h3 fw-bold mb-1">Recommended for you</h2>
+      <p class="text-muted small mb-0">Matched to your skills, field and location preferences.</p>
+    </div>
+    <a href="{{ url_for('internships') }}" class="arrow-link d-none d-sm-inline-flex">View all →</a>
+  </div>
+  <div class="row g-4">
+    {% for i in recommended %}
+    <div class="col-md-6 col-lg-4">
+      <a href="{{ url_for('internship_detail', internship_id=i.id) }}" class="recommend-card card-link">
+        <div class="d-flex justify-content-between align-items-start">
+          {{ logo_badge(i, 'md') }}
+          {{ match_badge(i.match) }}
+        </div>
+        <h3 class="h6 fw-bold mt-3 mb-1">{{ i.role }}</h3>
+        <p class="small text-muted">{{ i.company }}</p>
+        <div class="d-flex flex-wrap gap-2">{% for skill in i.skills[:3] %}<span class="skill-pill">{{ skill }}</span>{% endfor %}</div>
+        <div class="card-meta mt-4 pt-3"><span>📍 {{ i.location }}</span><span>🕒 {{ i.duration }}</span></div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="row g-4 mt-4">
+    <div class="col-md-4"><div class="insight-card"><span>📚</span><strong>Skill of the week</strong><p>Learn SQL basics — appears in 38% of new internships.</p></div></div>
+    <div class="col-md-4"><div class="insight-card"><span>🏆</span><strong>Top employer</strong><p>OCP is hiring 40+ interns this season across Morocco.</p></div></div>
+    <div class="col-md-4"><div class="insight-card"><span>📈</span><strong>Trending field</strong><p>Data & AI roles grew 27% in Casablanca this quarter.</p></div></div>
+  </div>
+</div>
+{% endblock %}

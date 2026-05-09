@@ -1,0 +1,79 @@
+{% extends 'base.html' %}
+{% from 'macros.html' import internship_card %}
+{% block content %}
+<section class="subtle-band border-bottom">
+  <div class="container-xl py-4 py-lg-5">
+    <h1 class="h1 fw-bold mb-1">Find your next internship</h1>
+    <p class="text-muted mb-4">{{ total }}+ opportunities across Morocco · updated daily</p>
+    <form method="get" class="row g-3 align-items-center">
+      <div class="col-lg-8">
+        <input class="form-control form-control-lg rounded-4 search-input" name="q" value="{{ q }}" placeholder="Search by role, company or skill…">
+      </div>
+      <div class="col-lg-4 d-flex gap-2">
+        <select name="sort" class="form-select form-select-lg rounded-4" onchange="this.form.submit()">
+          <option value="match" {% if sort == 'match' %}selected{% endif %}>Best match</option>
+          <option value="recent" {% if sort == 'recent' %}selected{% endif %}>Most recent</option>
+          <option value="stipend" {% if sort == 'stipend' %}selected{% endif %}>Highest stipend</option>
+        </select>
+        <button class="btn btn-primary rounded-4 px-4">Search</button>
+      </div>
+    </form>
+  </div>
+</section>
+
+<div class="container-xl py-5">
+  <div class="row g-4">
+    <aside class="col-lg-3">
+      <form method="get" class="filter-panel sticky-lg-top">
+        <input type="hidden" name="q" value="{{ q }}">
+        <input type="hidden" name="sort" value="{{ sort }}">
+        <div class="d-flex align-items-center justify-content-between mb-3">
+          <h2 class="h6 fw-bold mb-0">Filters</h2>
+          {% if active_count or q %}<a class="small text-decoration-none" href="{{ url_for('internships') }}">Clear</a>{% endif %}
+        </div>
+        <div class="filter-group">
+          <h3>Field of study</h3>
+          {% for option in options.fields %}
+          <label><input class="form-check-input" type="checkbox" name="field" value="{{ option }}" {% if option in selected_fields %}checked{% endif %}> {{ option }}</label>
+          {% endfor %}
+        </div>
+        <div class="filter-group">
+          <h3>Duration</h3>
+          {% for option in options.durations %}
+          <label><input class="form-check-input" type="checkbox" name="duration" value="{{ option }}" {% if option in selected_durations %}checked{% endif %}> {{ option }}</label>
+          {% endfor %}
+        </div>
+        <div class="filter-group">
+          <h3>Work mode</h3>
+          {% for option in options.modes %}
+          <label><input class="form-check-input" type="checkbox" name="remote" value="{{ option }}" {% if option in selected_modes %}checked{% endif %}> {{ option }}</label>
+          {% endfor %}
+        </div>
+        <div class="filter-group">
+          <h3>City</h3>
+          {% for option in options.cities %}
+          <label><input class="form-check-input" type="checkbox" name="city" value="{{ option }}" {% if option in selected_cities %}checked{% endif %}> {{ option }}</label>
+          {% endfor %}
+        </div>
+        <button class="btn btn-outline-primary w-100 rounded-4">Apply filters{% if active_count %} ({{ active_count }}){% endif %}</button>
+      </form>
+    </aside>
+    <section class="col-lg-9">
+      <div class="d-flex justify-content-between align-items-center mb-3">
+        <p class="text-muted small mb-0">{{ internships|length }} result{{ '' if internships|length == 1 else 's' }}</p>
+      </div>
+      {% if internships %}
+        <div class="row g-4">
+          {% for i in internships %}<div class="col-md-6">{{ internship_card(i) }}</div>{% endfor %}
+        </div>
+      {% else %}
+        <div class="empty-state text-center">
+          <h2 class="h5 fw-bold">No internships match your filters</h2>
+          <p class="text-muted">Try removing some filters or clearing your search.</p>
+          <a href="{{ url_for('internships') }}" class="btn btn-primary rounded-4">Clear all</a>
+        </div>
+      {% endif %}
+    </section>
+  </div>
+</div>
+{% endblock %}

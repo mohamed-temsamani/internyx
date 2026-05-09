@@ -1,0 +1,109 @@
+{% extends 'base.html' %}
+{% from 'macros.html' import logo_badge, match_badge, section_card %}
+{% block content %}
+<div class="container-xl py-4 py-lg-5">
+  <a href="{{ url_for('internships') }}" class="back-link">← Back to internships</a>
+
+  <div class="row g-4 mt-2">
+    <div class="col-lg-8 vstack gap-4">
+      <div class="surface-card">
+        <div class="d-flex align-items-start justify-content-between gap-4 flex-wrap">
+          <div class="d-flex align-items-center gap-3">
+            {{ logo_badge(i, 'lg') }}
+            <div>
+              <h1 class="h2 fw-bold mb-1">{{ i.role }}</h1>
+              <p class="text-muted mb-0">🏢 {{ i.company }} · {{ i.posted }}</p>
+            </div>
+          </div>
+          <form method="post" action="{{ url_for('save_internship', internship_id=i.id) }}">
+            <button class="btn {{ 'btn-success' if saved else 'btn-outline-secondary' }} rounded-4" {% if saved %}disabled{% endif %}>{{ 'Saved' if saved else 'Save' }}</button>
+          </form>
+        </div>
+        <div class="d-flex flex-wrap gap-2 mt-4">
+          {{ match_badge(i.match) }}
+          <span class="detail-pill">📍 {{ i.location }}</span>
+          <span class="detail-pill">🕒 {{ i.duration }}</span>
+          <span class="detail-pill">💼 {{ i.remote }}</span>
+          <span class="detail-pill">📅 Starts {{ i.startDate }}</span>
+        </div>
+        <div class="row g-3 mt-3">
+          <div class="col-sm-6">
+            <button class="btn btn-primary btn-lg rounded-4 w-100" data-bs-toggle="modal" data-bs-target="#applyModal" {% if applied %}disabled{% endif %}>{{ 'Applied' if applied else 'Apply now' }}</button>
+          </div>
+          <div class="col-sm-6">
+            <form method="post" action="{{ url_for('save_internship', internship_id=i.id) }}">
+              <button class="btn btn-light btn-lg rounded-4 border w-100" {% if saved %}disabled{% endif %}>{{ 'Saved for later' if saved else 'Save for later' }}</button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      {% call section_card('About the role') %}
+        <p>{{ i.description }}</p><p>{{ i.longDescription }}</p>
+      {% endcall %}
+      {% call section_card("What you'll do") %}
+        <ul class="clean-list">{% for item in i.responsibilities %}<li>✅ {{ item }}</li>{% endfor %}</ul>
+      {% endcall %}
+      {% call section_card("What we're looking for") %}
+        <p class="eyebrow mb-2">Required</p>
+        <ul class="clean-list">{% for item in i.requirements %}<li>✓ {{ item }}</li>{% endfor %}</ul>
+        {% if i.niceToHave %}<p class="eyebrow mt-4 mb-2">Nice to have</p><ul class="clean-list">{% for item in i.niceToHave %}<li>✦ {{ item }}</li>{% endfor %}</ul>{% endif %}
+        <p class="eyebrow mt-4 mb-2">Skills</p>
+        <div class="d-flex flex-wrap gap-2">{% for skill in i.skills %}<span class="skill-pill large">{{ skill }}</span>{% endfor %}</div>
+      {% endcall %}
+      {% call section_card('Perks & benefits') %}
+        <div class="row g-2">{% for item in i.perks %}<div class="col-sm-6"><div class="perk-item">⭐ {{ item }}</div></div>{% endfor %}</div>
+      {% endcall %}
+      {% call section_card('About the company') %}<p>{{ i.aboutCompany }}</p>{% endcall %}
+      {% call section_card('Application process') %}
+        <ol class="process-list">{% for step in i.applicationProcess %}<li><span>{{ loop.index }}</span><div><strong>{{ step.step }}</strong><small>{{ step.desc }}</small></div></li>{% endfor %}</ol>
+      {% endcall %}
+    </div>
+
+    <aside class="col-lg-4">
+      <div class="sticky-lg-top detail-sidebar vstack gap-4">
+        <div class="surface-card quality-card">
+          <div class="d-flex justify-content-between"><h2 class="h6 fw-bold">Internship Quality Score</h2><span>✦</span></div>
+          <div class="display-4 fw-bold text-gradient">{{ overall }}</div>
+          <p class="text-muted small">Based on 84 past intern reviews</p>
+          <div class="vstack gap-3">
+            {% for q in quality %}
+            <div>
+              <div class="d-flex justify-content-between small"><span>{{ q.label }}</span><strong>⭐ {{ q.value }}</strong></div>
+              <div class="progress thin"><div class="progress-bar" style="width: {{ (q.value / 5 * 100) | int }}%"></div></div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="surface-card">
+          <h2 class="h6 fw-bold">Stipend & details</h2>
+          <dl class="details-list mb-0">
+            <div><dt>Stipend</dt><dd>{{ i.stipend }}</dd></div>
+            <div><dt>Duration</dt><dd>{{ i.duration }}</dd></div>
+            <div><dt>Mode</dt><dd>{{ i.remote }}</dd></div>
+            <div><dt>Field</dt><dd>{{ i.field }}</dd></div>
+            <div><dt>Start date</dt><dd>{{ i.startDate }}</dd></div>
+            <div><dt>Openings</dt><dd>{{ i.openings }}</dd></div>
+            <div><dt>Team</dt><dd>{{ i.teamSize }}</dd></div>
+          </dl>
+        </div>
+        <div class="surface-card"><h2 class="h6 fw-bold">From this employer</h2><p class="small text-muted mb-0">42 students from your university interned here in the last 2 years. 78% received a full-time offer.</p></div>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<div class="modal fade" id="applyModal" tabindex="-1" aria-labelledby="applyModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <form class="modal-content rounded-5" method="post" action="{{ url_for('apply_internship', internship_id=i.id) }}">
+      <div class="modal-header"><h2 class="modal-title h5" id="applyModalLabel">Apply to {{ i.company }}</h2><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+      <div class="modal-body vstack gap-3">
+        <div><label class="form-label">Name</label><input class="form-control rounded-4" name="name" value="{{ profile.name }}" required></div>
+        <div><label class="form-label">Email</label><input class="form-control rounded-4" type="email" name="email" value="{{ profile.email }}" required></div>
+        <div><label class="form-label">Short note</label><textarea class="form-control rounded-4" name="note" rows="4" placeholder="Why are you interested in this internship?"></textarea></div>
+      </div>
+      <div class="modal-footer"><button type="button" class="btn btn-light rounded-4" data-bs-dismiss="modal">Cancel</button><button class="btn btn-primary rounded-4">Submit application</button></div>
+    </form>
+  </div>
+</div>
+{% endblock %}

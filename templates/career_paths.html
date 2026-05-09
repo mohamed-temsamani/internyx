@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="hero-section border-bottom">
+  <div class="container-xl py-5">
+    <h1 class="display-5 fw-bold">Career Path <span class="text-gradient">Explorer</span></h1>
+    <p class="text-muted lead col-lg-7">Visualize where your studies can take you in Morocco — from your first internship to leadership roles.</p>
+  </div>
+</section>
+
+<div class="container-xl py-5">
+  <div class="d-flex flex-wrap gap-2 mb-4">
+    {% for p in paths %}
+      <a href="{{ url_for('career_paths', path=p.id) }}" class="path-tab {% if p.id == active_path.id %}active{% endif %}">{{ p.emoji }} {{ p.field }}</a>
+    {% endfor %}
+  </div>
+
+  <section class="roadmap-card">
+    <div class="d-flex flex-wrap justify-content-between align-items-start gap-3 mb-4">
+      <div><h2 class="h3 fw-bold mb-1">{{ active_path.field }} roadmap</h2><p class="small text-muted mb-0">A typical journey for graduates of Moroccan universities.</p></div>
+      <span class="positive-chip">↗ Market: {{ active_path.marketGrowth }}</span>
+    </div>
+    <div class="roadmap-line"></div>
+    <div class="row g-4 roadmap-steps">
+      {% for step in active_path.steps %}
+      <div class="col-md-3">
+        <div class="roadmap-node">{{ '🎓' if loop.first else ('🏢' if loop.last else '💼') }}</div>
+        <div class="step-card">
+          <p class="eyebrow mb-1">{{ step.level }}</p>
+          <h3 class="h6 fw-bold">{{ step.role }}</h3>
+          <p class="small fw-bold text-primary">{{ step.salary }}</p>
+          <div class="d-flex flex-wrap gap-1">{% for skill in step.skills %}<span class="skill-pill">{{ skill }}</span>{% endfor %}</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <div class="row g-4 mt-4">
+    <div class="col-md-6"><div class="surface-card h-100"><h2 class="h5 fw-bold">Where the jobs are</h2><p class="text-muted small">Demand across major Moroccan cities.</p><div class="vstack gap-3 mt-3">{% for city in active_path.cities %}<div class="city-row"><span>📍 {{ city.name }}</span><strong>{{ city.demand }}</strong></div>{% endfor %}</div></div></div>
+    <div class="col-md-6"><div class="surface-card accent-card h-100"><h2 class="h5 fw-bold">Skills to invest in</h2><p class="text-muted small">Top requested skills for {{ active_path.field }} in 2026.</p><div class="row g-2 mt-2">{% for skill in top_skills %}<div class="col-6"><div class="skill-box">{{ skill }}</div></div>{% endfor %}</div><a href="{{ url_for('internships') }}" class="arrow-link mt-4 d-inline-flex">Find internships in this path →</a></div></div>
+  </div>
+</div>
+{% endblock %}
