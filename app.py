@@ -7,8 +7,7 @@ from typing import Any
 from flask import Flask, abort, flash, redirect, render_template, request, session, url_for
 
 BASE_DIR = Path(__file__).resolve().parent
-# internships.json lives at the repo root (same folder as app.py)
-DATA_FILE = BASE_DIR / "internships.json"
+DATA_FILE = BASE_DIR / "data" / "internships.json"
 
 CAREER_PATHS = [
     {
