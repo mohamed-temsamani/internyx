@@ -29,3 +29,15 @@ Thumbs.db
 .pytest_cache/
 htmlcov/
 .coverage
+
+
+# Environment variables
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+instance/
+.DS_Storedata/*_backup.json
+data/internships_backup.json

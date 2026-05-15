@@ -1,53 +1,79 @@
-# Internyx — Flask / SQLite / Bootstrap Rebuild
+# Internyx
 
-This is an independent rebuild of the Internyx internship platform using:
+Internyx is a Flask internship platform focused on internship opportunities in Morocco. It shows internship cards, detail pages, search, filters, saved internships, applications, and career path content in a beginner-friendly Flask project.
 
-- Frontend: HTML templates + Bootstrap + custom CSS
-- Backend: Python Flask
-- Database: SQLite
+## What the Apify update script does
 
-It includes the same core pages and experience from the original version:
+The script at `scripts/update_internships_apify.py` searches public internship listings related to Morocco using Apify, normalizes the results to match the existing `data/internships.json` format, classifies each internship, extracts skills, removes duplicates, and appends only new scraped internships without deleting your existing manual internships.
 
-- Dashboard
-- About
-- Internship listings with search, filters, and sorting
-- Internship detail pages
-- Save internship
-- Apply to internship
-- Career path explorer
-- Student profile with saved internships and applications
+## 1. Create an Apify account
 
-## Run locally
+1. Go to `https://apify.com/`.
+2. Create a free account.
+3. Open your Apify console after signing in.
 
-```bash
-python -m venv .venv
-```
+## 2. Get your Apify API token
 
-Windows PowerShell:
+1. In Apify, open `Settings`.
+2. Find the `API & Integrations` or `API tokens` section.
+3. Copy your API token.
+
+## 3. Create your `.env` file
+
+Copy `.env.example` to `.env` and update the values:
 
 ```bash
-.venv\Scripts\Activate.ps1
+copy .env.example .env
 ```
 
-Windows CMD:
+Windows PowerShell alternative:
 
-```bash
-.venv\Scripts\activate.bat
+```powershell
+Copy-Item .env.example .env
 ```
 
-macOS/Linux:
+Then edit `.env`:
 
-```bash
-source .venv/bin/activate
+```env
+APIFY_API_TOKEN=your_real_apify_token
+APIFY_ACTOR_ID=apify/google-search-scraper
+APIFY_MAX_RESULTS=10
+SECRET_KEY=dev-only-change-me
 ```
 
-Install dependencies:
+`APIFY_ACTOR_ID` is optional. If you leave it blank, the script uses a public search actor by default.
+
+## 4. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the app:
+## 5. Run a small test scrape first
+
+Start small so you do not waste Apify credits:
+
+```bash
+python scripts/update_internships_apify.py --limit 5 --dry-run
+```
+
+This will:
+
+- read your `.env`
+- call Apify
+- normalize and deduplicate results
+- show logs
+- avoid writing to `data/internships.json`
+
+## 6. Actually update `internships.json`
+
+When the dry run looks good:
+
+```bash
+python scripts/update_internships_apify.py --limit 10
+```
+
+## 7. Run Flask
 
 ```bash
 python app.py
@@ -59,16 +85,74 @@ Open:
 http://127.0.0.1:5000
 ```
 
-## Test
+The app now reads the latest `data/internships.json` while Flask is running, so new internships should appear without relying on the old startup-only cache. If you do not see changes right away, refresh the page. If needed, restart Flask.
+
+## 8. Schedule automatic updates
+
+### Windows Task Scheduler
+
+1. Open Task Scheduler.
+2. Create a basic task.
+3. Choose a schedule such as daily.
+4. Set the action to run:
+
+```bash
+python
+```
+
+5. Set the argument to:
+
+```bash
+scripts/update_internships_apify.py --limit 5
+```
+
+6. Set the start folder to your project root.
+
+### Cron on Linux or macOS
+
+Open your crontab:
+
+```bash
+crontab -e
+```
+
+Example daily job:
+
+```bash
+0 8 * * * cd /path/to/internyx && /usr/bin/python3 scripts/update_internships_apify.py --limit 5
+```
+
+## 9. How to avoid wasting Apify credits
+
+- Start with `--limit 5`.
+- Use `--dry-run` before writing data.
+- Do not run the scraper too often.
+- Keep `APIFY_MAX_RESULTS` small while testing.
+
+## 10. Safety note
+
+- Public data only.
+- No login cookies.
+- No private accounts.
+- No bypassing login pages or website restrictions.
+- Respect the public websites and the actor you choose.
+
+## 11. Run tests
 
 ```bash
 pytest
 ```
 
-## Database
+## 12. Important note about Apify actor input schema
 
-The SQLite database is created automatically in `instance/internyx.sqlite` on first run. Internship data is seeded from `data/internships.json`.
+Different Apify actors use different input field names.
 
-## Notes
+This project defaults to a public search-style actor and builds one `actor_input` dictionary inside `scripts/update_internships_apify.py`. If your chosen actor expects different keys, you may need to adjust:
 
-No Lovable platform code, hosting badge, or visible Lovable branding is included in this rebuild.
+- `queries`
+- `resultsPerPage`
+- `maxPagesPerQuery`
+- `languageCode`
+- any actor-specific filters
+
+The script is already structured so you can update that one `actor_input` block without changing the rest of the pipeline.

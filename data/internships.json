@@ -384,5 +384,5368 @@
         "desc": "Half-day on-site interview in Tangier"
       }
     ]
+  },
+  {
+    "id": "apify-ebdeaca2cf36",
+    "role": "emplois stage développement web",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Machine Learning"
+    ],
+    "match": 94,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Nous ouvrons un poste de stage en développement full stack et Webdesign. Bases solides en HTML et CSS et d'autres technologies de développement web.",
+    "longDescription": "Nous ouvrons un poste de stage en développement full stack et Webdesign. Bases solides en HTML et CSS et d'autres technologies de développement web.",
+    "responsibilities": [
+      "Nous ouvrons un poste de stage en développement full stack et Webdesign.",
+      "Bases solides en HTML et CSS et d'autres technologies de développement web."
+    ],
+    "requirements": [
+      "Exposure to HTML, CSS, Machine Learning.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-d%C3%A9veloppement-web-emplois.html"
+  },
+  {
+    "id": "apify-b823c7735c12",
+    "role": "Offres d'emploi : stage developpement web au Maroc",
+    "company": "Optioncarriere",
+    "logo": "OPT",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Consultez nos 11 offres d'emploi stage developpement web au Maroc en CDI ou CDD publiées sur Optioncarriere. Tous les postes à pourvoir en une seule ...",
+    "longDescription": "Consultez nos 11 offres d'emploi stage developpement web au Maroc en CDI ou CDD publiées sur Optioncarriere. Tous les postes à pourvoir en une seule ...",
+    "responsibilities": [
+      "Consultez nos 11 offres d'emploi stage developpement web au Maroc en CDI ou CDD publiées sur Optioncarriere.",
+      "Tous les postes à pourvoir en une seule ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Optioncarriere appears in a public internship listing sourced from optioncarriere.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.optioncarriere.ma/emploi-stage-developpement-web"
+  },
+  {
+    "id": "apify-d6db729e503f",
+    "role": "Emplois Stage Développement Web - Casablanca",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-clay to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Développement Web, Casablanca : 47 emplois sur Indeed.com. Développeur Full Stack, Stagiaire Développeur Web, Agent De Développement et bien d'autres ...",
+    "longDescription": "Stage Développement Web, Casablanca : 47 emplois sur Indeed.com. Développeur Full Stack, Stagiaire Développeur Web, Agent De Développement et bien d'autres ...",
+    "responsibilities": [
+      "Stage Développement Web, Casablanca : 47 emplois sur Indeed.com.",
+      "Développeur Full Stack, Stagiaire Développeur Web, Agent De Développement et bien d'autres ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-d%C3%A9veloppement-web-l-casablanca-emplois.html"
+  },
+  {
+    "id": "apify-09a653bbf150",
+    "role": "Stage en Développement Web chez Labex",
+    "company": "Stagiaires",
+    "logo": "STA",
+    "logoBg": "from-primary to-clay",
+    "location": "Casablanca",
+    "remote": "Hybrid",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Git"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Il s'agit d'un stage hybride à temps plein basé à Casablanca, avec une certaine flexibilité de travail à distance. En tant que stagiaire en développement web ...",
+    "longDescription": "Il s'agit d'un stage hybride à temps plein basé à Casablanca, avec une certaine flexibilité de travail à distance. En tant que stagiaire en développement web ...",
+    "responsibilities": [
+      "Il s'agit d'un stage hybride à temps plein basé à Casablanca, avec une certaine flexibilité de travail à distance.",
+      "En tant que stagiaire en développement web ..."
+    ],
+    "requirements": [
+      "Exposure to Git.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stagiaires appears in a public internship listing sourced from stagiaires.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stagiaires.ma/stage-emploi-maroc/837-stage-en-developpement-web"
+  },
+  {
+    "id": "apify-3d0a95deec73",
+    "role": "Emploi d'urgence! Stage développeur web Rabat",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-clay",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "API"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Emploi : Stage développeur web à Rabat • Recherche parmi 3.700+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à temps partiel ...",
+    "longDescription": "Emploi : Stage développeur web à Rabat • Recherche parmi 3.700+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à temps partiel ...",
+    "responsibilities": [
+      "Support the team in building and improving software features.",
+      "Test and document the work delivered during the internship.",
+      "Collaborate with mentors on product or engineering tasks."
+    ],
+    "requirements": [
+      "Exposure to API.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.jooble.org.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.jooble.org/emploi-stage-d%C3%A9veloppeur-web/Rabat"
+  },
+  {
+    "id": "apify-6f502afe653d",
+    "role": "Offres de stage en Informatique au Maroc",
+    "company": "Stage",
+    "logo": "STA",
+    "logoBg": "from-clay to-warning",
+    "location": "Fes",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Business / Management",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 71,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Parcourez +500 stages en Informatique au Maroc et découvrez des opportunités pour acquérir une expérience professionnelle et lancer votre carrière en...",
+    "longDescription": "Parcourez +500 stages en Informatique au Maroc et découvrez des opportunités pour acquérir une expérience professionnelle et lancer votre carrière en...",
+    "responsibilities": [
+      "Support day-to-day internship tasks with guidance from the team.",
+      "Help document progress and communicate clearly with mentors.",
+      "Apply and strengthen skills such as Communication, Microsoft Office."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Business / Management and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Project Management"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stage appears in a public internship listing sourced from stage.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stage.ma/specialites/computer-science"
+  },
+  {
+    "id": "apify-c9e184575155",
+    "role": "Emploi : Stage développement informatique",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-zellige to-success",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Microsoft Office"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Distamed recrute un Développeur Web WordPress Junior (Stage préembauche) à Casablanca. Vos missions incluront la maintenance, le développement et l'optimisation ...",
+    "longDescription": "Distamed recrute un Développeur Web WordPress Junior (Stage préembauche) à Casablanca. Vos missions incluront la maintenance, le développement et l'optimisation ...",
+    "responsibilities": [
+      "Distamed recrute un Développeur Web WordPress Junior (Stage préembauche) à Casablanca.",
+      "Vos missions incluront la maintenance, le développement et l'optimisation ..."
+    ],
+    "requirements": [
+      "Exposure to Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-Stage-d%C3%A9veloppement-informatique"
+  },
+  {
+    "id": "apify-4c20316ab508",
+    "role": "Emploi d'urgence! Stage en développement web Casablanca",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "API"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Emploi : Stage en développement web à Casablanca • Recherche parmi 3.700+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à temps ...",
+    "longDescription": "Emploi : Stage en développement web à Casablanca • Recherche parmi 3.700+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à temps ...",
+    "responsibilities": [
+      "Support the team in building and improving software features.",
+      "Test and document the work delivered during the internship.",
+      "Collaborate with mentors on product or engineering tasks."
+    ],
+    "requirements": [
+      "Exposure to API.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.jooble.org.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.jooble.org/emploi-stage-en-d%C3%A9veloppement-web/Casablanca"
+  },
+  {
+    "id": "apify-995020ec3ba7",
+    "role": "Offres d'emploi Stage Developpeur Web - Casablanca",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Concevoir et développer des applications web modernes et performantes. Type d'emploi :* Stage de pré-embauche (3 mois) débouchant sur un CDI.",
+    "longDescription": "Concevoir et développer des applications web modernes et performantes. Type d'emploi :* Stage de pré-embauche (3 mois) débouchant sur un CDI.",
+    "responsibilities": [
+      "Concevoir et développer des applications web modernes et performantes.",
+      "Type d'emploi :* Stage de pré-embauche (3 mois) débouchant sur un CDI."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-developpeur-web-l-casablanca-emplois.html"
+  },
+  {
+    "id": "apify-7cdeb650aebd",
+    "role": "Offres d'emploi Stage Cybersécurité",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Nous proposons un stage pré-embauche pour des profils passionnés par la cybersécurité souhaitant évoluer dans un environnement innovant et dynamique.",
+    "longDescription": "Nous proposons un stage pré-embauche pour des profils passionnés par la cybersécurité souhaitant évoluer dans un environnement innovant et dynamique.",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-cybers%C3%A9curit%C3%A9-emplois.html"
+  },
+  {
+    "id": "apify-5e4349d57e44",
+    "role": "Stage PFE – Ingénieur cybersécurité H/F",
+    "company": "Nextdefense",
+    "logo": "NEX",
+    "logoBg": "from-primary to-clay",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Lieu : Rabat, Maroc ⏳ Durée : 6 mois (stage à pourvoir dès que possible). Missions : En tant que stagiaire ingénieur cybersécurité, vous serez intégré ...",
+    "longDescription": "Lieu : Rabat, Maroc ⏳ Durée : 6 mois (stage à pourvoir dès que possible). Missions : En tant que stagiaire ingénieur cybersécurité, vous serez intégré ...",
+    "responsibilities": [
+      "Lieu : Rabat, Maroc ⏳ Durée : 6 mois (stage à pourvoir dès que possible).",
+      "Missions : En tant que stagiaire ingénieur cybersécurité, vous serez intégré ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Nextdefense appears in a public internship listing sourced from nextdefense.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://nextdefense.ma/jobs/stage-pfe-ingenieur-cybersecurite-h-f/"
+  },
+  {
+    "id": "apify-d8450b080a01",
+    "role": "Stage cybersécurité / Sécurité Informatique",
+    "company": "Stagiaires",
+    "logo": "STA",
+    "logoBg": "from-primary to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Nous proposons un stage pré-embauche en cybersécurité à Casablanca, idéal pour des profils passionnés. Les missions incluent l'assistance à l'équipe, ...",
+    "longDescription": "Nous proposons un stage pré-embauche en cybersécurité à Casablanca, idéal pour des profils passionnés. Les missions incluent l'assistance à l'équipe, ...",
+    "responsibilities": [
+      "Nous proposons un stage pré-embauche en cybersécurité à Casablanca, idéal pour des profils passionnés.",
+      "Les missions incluent l'assistance à l'équipe, ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma",
+      "UI",
+      "UX"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stagiaires appears in a public internship listing sourced from stagiaires.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stagiaires.ma/stage-emploi-maroc/2991-stage-cybersecurite-securite-informatique"
+  },
+  {
+    "id": "apify-dbe3cb29a5a1",
+    "role": "Inetum Maroc recrute des Stagiaires PFE en Cybersécurité ...",
+    "company": "Fr",
+    "logo": "FR",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "STAGE PFE CYBERSÉCURITÉ – INETUM MAROC ✨ Inetum Maroc ouvre ses portes aux futurs talents de la Cybersécurité !",
+    "longDescription": "STAGE PFE CYBERSÉCURITÉ – INETUM MAROC ✨ Inetum Maroc ouvre ses portes aux futurs talents de la Cybersécurité !",
+    "responsibilities": [
+      "STAGE PFE CYBERSÉCURITÉ – INETUM MAROC ✨ Inetum Maroc ouvre ses portes aux futurs talents de la Cybersécurité !"
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Fr appears in a public internship listing sourced from fr.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://fr.linkedin.com/posts/maryem-aarab-93563b279_inetum-maroc-recrute-des-stagiaires-pfe-en-activity-7412798018820915200-3QdJ"
+  },
+  {
+    "id": "apify-f6d48edc960c",
+    "role": "Offre d'emploi Stagiaires en Cybersécurité - Casablanca",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-zellige to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "5 poste(s) sur Casablanca et région - Maroc; Bac +5 et plus. Besoin d'autonomie Besoin de réflexion Ambition Implication au travail Recherche de nouveauté.",
+    "longDescription": "5 poste(s) sur Casablanca et région - Maroc; Bac +5 et plus. Besoin d'autonomie Besoin de réflexion Ambition Implication au travail Recherche de nouveauté.",
+    "responsibilities": [
+      "5 poste(s) sur Casablanca et région - Maroc; Bac +5 et plus.",
+      "Besoin d'autonomie Besoin de réflexion Ambition Implication au travail Recherche de nouveauté."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/offre-emploi-stagiaires-en-cybersecurite-recrutement-deloitte-extended-services-casablanca-118075.html"
+  },
+  {
+    "id": "apify-881bd187e2e2",
+    "role": "Cyber Sécurité, Stage Pfa : plus de 50 emplois (15 mai 2026)",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Data Analysis"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Cyber Sécurité, Stage Pfa : 56 emplois sur Indeed.com. Ingénieur Sécurité, Architecte Sécurité, Analyste et bien d'autres : postulez dès maintenant !",
+    "longDescription": "Cyber Sécurité, Stage Pfa : 56 emplois sur Indeed.com. Ingénieur Sécurité, Architecte Sécurité, Analyste et bien d'autres : postulez dès maintenant !",
+    "responsibilities": [
+      "Cyber Sécurité, Stage Pfa : 56 emplois sur Indeed.com.",
+      "Ingénieur Sécurité, Architecte Sécurité, Analyste et bien d'autres : postulez dès maintenant !"
+    ],
+    "requirements": [
+      "Exposure to Data Analysis.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-cyber-s%C3%A9curit%C3%A9,-stage-pfa-emplois.html"
+  },
+  {
+    "id": "apify-543de7a75449",
+    "role": "Stage - Ingénieur Cybersécurité | Casablanca - Confidential",
+    "company": "Bebee",
+    "logo": "BEB",
+    "logoBg": "from-clay to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Dans le cadre de notre développement, nous recherchons un stagiaire Ingénieur Cybersécurité pour rejoindre notre équipe à Casablanca. Vous participerez ...",
+    "longDescription": "Dans le cadre de notre développement, nous recherchons un stagiaire Ingénieur Cybersécurité pour rejoindre notre équipe à Casablanca. Vous participerez ...",
+    "responsibilities": [
+      "Dans le cadre de notre développement, nous recherchons un stagiaire Ingénieur Cybersécurité pour rejoindre notre équipe à Casablanca."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Bebee appears in a public internship listing sourced from bebee.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://bebee.com/ma/jobs/stage-ingenieur-cybersecurite-casablanca-confidential-casablanca-settat--theirstack-656651154"
+  },
+  {
+    "id": "apify-a94be56f9559",
+    "role": "Cyber sécurité maroc (Emplois, Stage, Formations)",
+    "company": "Facebook",
+    "logo": "FAC",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Business / Management",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 71,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Cyber sécurité maroc (Emplois, Stage, Formations). Join group. About this ... stage PFA - cybersécurité Svp, je cherche un stage PFA en cybersécurité ...",
+    "longDescription": "Cyber sécurité maroc (Emplois, Stage, Formations). Join group. About this ... stage PFA - cybersécurité Svp, je cherche un stage PFA en cybersécurité ...",
+    "responsibilities": [
+      "Cyber sécurité maroc (Emplois, Stage, Formations).",
+      "stage PFA - cybersécurité Svp, je cherche un stage PFA en cybersécurité ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Business / Management and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Project Management"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Facebook appears in a public internship listing sourced from facebook.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.facebook.com/groups/792714468668360/"
+  },
+  {
+    "id": "apify-94fb41103576",
+    "role": "Stage Pré-Embauche – Cybersécurité & Systèmes (6 Mois)",
+    "company": "Stagiaires",
+    "logo": "STA",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Cybersecurity",
+    "skills": [
+      "Network Security",
+      "SOC"
+    ],
+    "match": 86,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Cybersécurité: Notions de base ISO 27001, Firewalls, IDS/IPS, SIEM (Splunk, ELK), VPN, Durcissement Système & Réseau; Outils: Wireshark, Nmap, Metasploit, ...",
+    "longDescription": "Cybersécurité: Notions de base ISO 27001, Firewalls, IDS/IPS, SIEM (Splunk, ELK), VPN, Durcissement Système & Réseau; Outils: Wireshark, Nmap, Metasploit, ...",
+    "responsibilities": [
+      "Support security monitoring and documentation tasks.",
+      "Help review incidents, alerts, or policy-related findings.",
+      "Work with mentors on secure practices and reporting."
+    ],
+    "requirements": [
+      "Exposure to Network Security, SOC.",
+      "Interest in Cybersecurity and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Communication"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stagiaires appears in a public internship listing sourced from stagiaires.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stagiaires.ma/stage-emploi-maroc/906-stage-pre-embauche-cybersecurite-systemes-6-mois-sale"
+  },
+  {
+    "id": "apify-48f3b15bd40f",
+    "role": "Offres d'emploi Stage Data Analyst",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Data Analysis"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Data Analyst : 6 emplois sur Indeed.com. Analyste, Consultant Technico-fonctionnel SAP, Data Scientist et bien d'autres : postulez dès maintenant !",
+    "longDescription": "Stage Data Analyst : 6 emplois sur Indeed.com. Analyste, Consultant Technico-fonctionnel SAP, Data Scientist et bien d'autres : postulez dès maintenant !",
+    "responsibilities": [
+      "Stage Data Analyst : 6 emplois sur Indeed.com.",
+      "Analyste, Consultant Technico-fonctionnel SAP, Data Scientist et bien d'autres : postulez dès maintenant !"
+    ],
+    "requirements": [
+      "Exposure to Data Analysis.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-data-analyst-emplois.html"
+  },
+  {
+    "id": "apify-7aae560a57d3",
+    "role": "Offres d'emploi : stage data au Maroc",
+    "company": "Optioncarriere",
+    "logo": "OPT",
+    "logoBg": "from-zellige to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Business / Management",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 71,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Consultez nos 31 offres d'emploi stage data au Maroc en CDI ou CDD publiées sur Optioncarriere. Tous les postes à pourvoir en une seule recherche.",
+    "longDescription": "Consultez nos 31 offres d'emploi stage data au Maroc en CDI ou CDD publiées sur Optioncarriere. Tous les postes à pourvoir en une seule recherche.",
+    "responsibilities": [
+      "Consultez nos 31 offres d'emploi stage data au Maroc en CDI ou CDD publiées sur Optioncarriere.",
+      "Tous les postes à pourvoir en une seule recherche."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Business / Management and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Project Management"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Optioncarriere appears in a public internship listing sourced from optioncarriere.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.optioncarriere.ma/emploi-stage-data"
+  },
+  {
+    "id": "apify-48d8fe172049",
+    "role": "Emploi STAGE Data Analyst - Maroc",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Data Analysis"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Accueil; Emploi : STAGE Data Analyst. Critères de recherche. Mot clé : STAGE Data Analyst · Voir toutes les offres · Enregistrer cette recherche.",
+    "longDescription": "Accueil; Emploi : STAGE Data Analyst. Critères de recherche. Mot clé : STAGE Data Analyst · Voir toutes les offres · Enregistrer cette recherche.",
+    "responsibilities": [
+      "Accueil; Emploi : STAGE Data Analyst.",
+      "Mot clé : STAGE Data Analyst · Voir toutes les offres · Enregistrer cette recherche."
+    ],
+    "requirements": [
+      "Exposure to Data Analysis.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-STAGE-Data-Analyst"
+  },
+  {
+    "id": "apify-9f7e37aa6fda",
+    "role": "Stage Data Analyst (Pré-embauche)",
+    "company": "Stagiaires",
+    "logo": "STA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Excel",
+      "Power BI",
+      "Data Analysis"
+    ],
+    "match": 95,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Profil recherché : · Étudiant(e) en informatique, data science, statistiques ou domaine équivalent · Maîtrise d'Excel indispensable ; la connaissance de Power BI ...",
+    "longDescription": "Profil recherché : · Étudiant(e) en informatique, data science, statistiques ou domaine équivalent · Maîtrise d'Excel indispensable ; la connaissance de Power BI ...",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to Excel, Power BI, Data Analysis.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stagiaires appears in a public internship listing sourced from stagiaires.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stagiaires.ma/stage-emploi-maroc/779-stage-data-analyst-pre-embauche"
+  },
+  {
+    "id": "apify-96930e70516a",
+    "role": "Emploi d'urgence! Stage data analyst Rabat",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-clay to-warning",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "API",
+      "Data Analysis"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Emploi : Stage data analyst à Rabat • Recherche parmi 4.300+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à temps partiel ...",
+    "longDescription": "Emploi : Stage data analyst à Rabat • Recherche parmi 4.300+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à temps partiel ...",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to API, Data Analysis.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.jooble.org.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.jooble.org/emploi-stage-data-analyst/Rabat"
+  },
+  {
+    "id": "apify-1c8ea54d1f9b",
+    "role": "Emplois Stage, Data Analyst - Casablanca",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-clay to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Data Analysis"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage, Data Analyst, Casablanca : 643 emplois sur Indeed.com. Analyste, Stagiaire Comptabilité, Stagiaire et bien d'autres : postulez dès maintenant !",
+    "longDescription": "Stage, Data Analyst, Casablanca : 643 emplois sur Indeed.com. Analyste, Stagiaire Comptabilité, Stagiaire et bien d'autres : postulez dès maintenant !",
+    "responsibilities": [
+      "Stage, Data Analyst, Casablanca : 643 emplois sur Indeed.com.",
+      "Analyste, Stagiaire Comptabilité, Stagiaire et bien d'autres : postulez dès maintenant !"
+    ],
+    "requirements": [
+      "Exposure to Data Analysis.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage,-data-analyst-l-casablanca-emplois.html"
+  },
+  {
+    "id": "apify-296b38e0005c",
+    "role": "data analyst - Maroc : 162 emplois - Glassdoor",
+    "company": "Glassdoor",
+    "logo": "GLA",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Data Analysis"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "162 offres d'emploi, Data analyst, sont sur Glassdoor. Trouvez un job. Consultez les avis et salaires des employés. Postulez aux offres pour Data analyst.",
+    "longDescription": "162 offres d'emploi, Data analyst, sont sur Glassdoor. Trouvez un job. Consultez les avis et salaires des employés. Postulez aux offres pour Data analyst.",
+    "responsibilities": [
+      "162 offres d'emploi, Data analyst, sont sur Glassdoor.",
+      "Consultez les avis et salaires des employés.",
+      "Postulez aux offres pour Data analyst."
+    ],
+    "requirements": [
+      "Exposure to Data Analysis.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Glassdoor appears in a public internship listing sourced from glassdoor.fr.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.glassdoor.fr/Emploi/data-analyst-emplois-SRCH_IN162_KO0,12.htm"
+  },
+  {
+    "id": "apify-3c6e98f0e20a",
+    "role": "Emploi d'urgence! Stage data analyst Casablanca",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "API",
+      "Data Analysis"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Emploi : Stage data analyst à Casablanca • Recherche parmi 3.700+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à temps partiel ...",
+    "longDescription": "Emploi : Stage data analyst à Casablanca • Recherche parmi 3.700+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à temps partiel ...",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to API, Data Analysis.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.jooble.org.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.jooble.org/emploi-stage-data-analyst/Casablanca"
+  },
+  {
+    "id": "apify-06c7c12367f8",
+    "role": "Stage Data : plus de 25 emplois (15 mai 2026)",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Data & AI",
+    "skills": [
+      "Data Analysis"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Offre de stage – data analyst (stage de 6 mois). Labelvie. Casablanca. Dans le cadre de notre développement, nous recherchons des stagiaires en Data Analyse ...",
+    "longDescription": "Offre de stage – data analyst (stage de 6 mois). Labelvie. Casablanca. Dans le cadre de notre développement, nous recherchons des stagiaires en Data Analyse ...",
+    "responsibilities": [
+      "Offre de stage – data analyst (stage de 6 mois).",
+      "Dans le cadre de notre développement, nous recherchons des stagiaires en Data Analyse ..."
+    ],
+    "requirements": [
+      "Exposure to Data Analysis.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-data-emplois.html"
+  },
+  {
+    "id": "apify-f38712c28f6c",
+    "role": "Stage Finance : plus de 100 emplois (15 mai 2026)",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Finance"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Finance : 114 emplois sur Indeed.com. Stagiaire Comptabilité, Assistant Comptable, Chargé De Recouvrement et bien d'autres : postulez dès maintenant !",
+    "longDescription": "Stage Finance : 114 emplois sur Indeed.com. Stagiaire Comptabilité, Assistant Comptable, Chargé De Recouvrement et bien d'autres : postulez dès maintenant !",
+    "responsibilities": [
+      "Stage Finance : 114 emplois sur Indeed.com.",
+      "Stagiaire Comptabilité, Assistant Comptable, Chargé De Recouvrement et bien d'autres : postulez dès maintenant !"
+    ],
+    "requirements": [
+      "Exposure to Finance.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-finance-emplois.html"
+  },
+  {
+    "id": "apify-9d6a71962e03",
+    "role": "Offres de stage en Finance au Maroc",
+    "company": "Stage",
+    "logo": "STA",
+    "logoBg": "from-warning to-clay",
+    "location": "Fes",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Finance"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Parcourez +500 stages en Finance au Maroc et découvrez des opportunités pour acquérir une expérience professionnelle et lancer votre carrière en Finan...",
+    "longDescription": "Parcourez +500 stages en Finance au Maroc et découvrez des opportunités pour acquérir une expérience professionnelle et lancer votre carrière en Finan...",
+    "responsibilities": [
+      "Support reporting, reconciliations, or budget follow-up tasks.",
+      "Help organize financial documents and basic analysis work.",
+      "Prepare clear updates for the finance team with mentor support."
+    ],
+    "requirements": [
+      "Exposure to Finance.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stage appears in a public internship listing sourced from stage.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stage.ma/specialites/finance"
+  },
+  {
+    "id": "apify-4864e28cd4eb",
+    "role": "Emploi stage finance - Maroc",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-clay to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Finance"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stagiaire en comptabilité (F/H) | Technopolis (Maroc). 7. de formation bac+3/5, en gestion comptable et/ou finance d'entreprises, nous vous proposons un stage ...",
+    "longDescription": "Stagiaire en comptabilité (F/H) | Technopolis (Maroc). 7. de formation bac+3/5, en gestion comptable et/ou finance d'entreprises, nous vous proposons un stage ...",
+    "responsibilities": [
+      "Stagiaire en comptabilité (F/H) | Technopolis (Maroc).",
+      "de formation bac+3/5, en gestion comptable et/ou finance d'entreprises, nous vous proposons un stage ..."
+    ],
+    "requirements": [
+      "Exposure to Finance.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-stage-finance"
+  },
+  {
+    "id": "apify-50adfa8ab08e",
+    "role": "Stagiaires.ma: Stages et Premiers Emplois au Maroc",
+    "company": "Stagiaires",
+    "logo": "STA",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Finance",
+      "Communication"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Banque, Finance & Assurance Commerce & Distribution Communication & Médias ... Consultez parmi nos 6.299 OPPORTUNITÉS de stage et premier emploi au Maroc.",
+    "longDescription": "Banque, Finance & Assurance Commerce & Distribution Communication & Médias ... Consultez parmi nos 6.299 OPPORTUNITÉS de stage et premier emploi au Maroc.",
+    "responsibilities": [
+      "Banque, Finance & Assurance Commerce & Distribution Communication & Médias ...",
+      "Consultez parmi nos 6.299 OPPORTUNITÉS de stage et premier emploi au Maroc."
+    ],
+    "requirements": [
+      "Exposure to Finance, Communication.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stagiaires appears in a public internship listing sourced from stagiaires.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stagiaires.ma/"
+  },
+  {
+    "id": "apify-0610ee1ff2c0",
+    "role": "Emplois Stage Finance - Casablanca",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Data Analysis",
+      "Finance"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Finance, Casablanca : 59 emplois sur Indeed.com. Stagiaire Comptabilité, Analyste Financier, Finance Intern et bien d'autres : postulez dès maintenant ...",
+    "longDescription": "Stage Finance, Casablanca : 59 emplois sur Indeed.com. Stagiaire Comptabilité, Analyste Financier, Finance Intern et bien d'autres : postulez dès maintenant ...",
+    "responsibilities": [
+      "Stage Finance, Casablanca : 59 emplois sur Indeed.com.",
+      "Stagiaire Comptabilité, Analyste Financier, Finance Intern et bien d'autres : postulez dès maintenant ..."
+    ],
+    "requirements": [
+      "Exposure to Data Analysis, Finance.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-finance-l-casablanca-emplois.html"
+  },
+  {
+    "id": "apify-f242fa8f8b66",
+    "role": "Emploi d'urgence! Stage finance Rabat",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Git",
+      "Finance",
+      "Social Media"
+    ],
+    "match": 84,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Finance - Facturation & Support (F/H) - Rabat (Maroc) · Offre de stages étudiants : 1 Chargé(e) de Recrutement & 1 Community Manager Digital.",
+    "longDescription": "Stage Finance - Facturation & Support (F/H) - Rabat (Maroc) · Offre de stages étudiants : 1 Chargé(e) de Recrutement & 1 Community Manager Digital.",
+    "responsibilities": [
+      "Support reporting, reconciliations, or budget follow-up tasks.",
+      "Help organize financial documents and basic analysis work.",
+      "Prepare clear updates for the finance team with mentor support."
+    ],
+    "requirements": [
+      "Exposure to Git, Finance, Social Media.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.jooble.org.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.jooble.org/emploi-stage-finance/Rabat"
+  },
+  {
+    "id": "apify-0a456db34ddb",
+    "role": "‏٣٤‏ من وظائف ‏Stage Finance‏ في ‏المغرب‏",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-clay to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Data Analysis",
+      "Finance"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "٣٤ Stage Finance وظائف في المغرب · Consultant(e) Junior – Fonction Finance · PFE Stagiaire Comptable · Stagiaire Transaction Services - Immobilier (F/H) · Analyste ...",
+    "longDescription": "٣٤ Stage Finance وظائف في المغرب · Consultant(e) Junior – Fonction Finance · PFE Stagiaire Comptable · Stagiaire Transaction Services - Immobilier (F/H) · Analyste ...",
+    "responsibilities": [
+      "Support reporting, reconciliations, or budget follow-up tasks.",
+      "Help organize financial documents and basic analysis work.",
+      "Prepare clear updates for the finance team with mentor support."
+    ],
+    "requirements": [
+      "Exposure to Data Analysis, Finance.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.linkedin.com/jobs/stage-finance-jobs"
+  },
+  {
+    "id": "apify-de32f35afc1c",
+    "role": "5 Stages de Finance au Maroc",
+    "company": "Iagora",
+    "logo": "IAG",
+    "logoBg": "from-zellige to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Finance"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "“Offre de stage en finance à Casablanca au sein de JTI. Missions : gestion des comptes fournisseurs, contrôle interne, rapprochements bancaires et archivage des ...",
+    "longDescription": "“Offre de stage en finance à Casablanca au sein de JTI. Missions : gestion des comptes fournisseurs, contrôle interne, rapprochements bancaires et archivage des ...",
+    "responsibilities": [
+      "“Offre de stage en finance à Casablanca au sein de JTI.",
+      "Missions : gestion des comptes fournisseurs, contrôle interne, rapprochements bancaires et archivage des ..."
+    ],
+    "requirements": [
+      "Exposure to Finance.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Iagora appears in a public internship listing sourced from iagora.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.iagora.com/work/fr/stages/finance/maroc"
+  },
+  {
+    "id": "apify-607563edaa8c",
+    "role": "Offres d'emploi Stage Finance - Rabat",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Data Analysis",
+      "Finance"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Finance, Rabat : 9 emplois sur Indeed.com. Stagiaire Comptabilité, Analyste Financier, Assistant Comptable et bien d'autres : postulez dès maintenant ...",
+    "longDescription": "Stage Finance, Rabat : 9 emplois sur Indeed.com. Stagiaire Comptabilité, Analyste Financier, Assistant Comptable et bien d'autres : postulez dès maintenant ...",
+    "responsibilities": [
+      "Stage Finance, Rabat : 9 emplois sur Indeed.com.",
+      "Stagiaire Comptabilité, Analyste Financier, Assistant Comptable et bien d'autres : postulez dès maintenant ..."
+    ],
+    "requirements": [
+      "Exposure to Data Analysis, Finance.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-finance-l-rabat-emplois.html"
+  },
+  {
+    "id": "apify-7fa95e2b8779",
+    "role": "17 internship software Jobs in Morocco, May 2026",
+    "company": "Glassdoor",
+    "logo": "GLA",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Search Internship software jobs in Morocco with company ratings & salaries. 17 open jobs for Internship software in Morocco.",
+    "longDescription": "Search Internship software jobs in Morocco with company ratings & salaries. 17 open jobs for Internship software in Morocco.",
+    "responsibilities": [
+      "Search Internship software jobs in Morocco with company ratings & salaries.",
+      "17 open jobs for Internship software in Morocco."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Glassdoor appears in a public internship listing sourced from glassdoor.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.glassdoor.com/Job/morocco-internship-software-jobs-SRCH_IL.0,7_IN162_KO8,27.htm"
+  },
+  {
+    "id": "apify-36f8af4d295c",
+    "role": "Offres d'emploi Software Development Internship",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Software Development Internship : emplois sur Indeed.com. Ingénieur Etudes Et Développement et bien d'autres : postulez dès maintenant !",
+    "longDescription": "Software Development Internship : emplois sur Indeed.com. Ingénieur Etudes Et Développement et bien d'autres : postulez dès maintenant !",
+    "responsibilities": [
+      "Software Development Internship : emplois sur Indeed.com.",
+      "Ingénieur Etudes Et Développement et bien d'autres : postulez dès maintenant !"
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-software-development-internship-emplois.html"
+  },
+  {
+    "id": "apify-ea842dcd0236",
+    "role": "Internship Software Engineer Jobs in Morocco (May 2026)",
+    "company": "Bayt",
+    "logo": "BAY",
+    "logoBg": "from-primary to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Apply now to over 50 Internship Software Engineer jobs in Morocco and make your job hunting simpler. Find the latest Internship Software Engineer job ...",
+    "longDescription": "Apply now to over 50 Internship Software Engineer jobs in Morocco and make your job hunting simpler. Find the latest Internship Software Engineer job ...",
+    "responsibilities": [
+      "Apply now to over 50 Internship Software Engineer jobs in Morocco and make your job hunting simpler.",
+      "Find the latest Internship Software Engineer job ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Bayt appears in a public internship listing sourced from bayt.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.bayt.com/en/morocco/jobs/internship-software-engineer-jobs/"
+  },
+  {
+    "id": "apify-259cc6b344ac",
+    "role": "Software Engineering Internship - X Delivery - BCG Careers",
+    "company": "Careers",
+    "logo": "CAR",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "As a Software Engineering Intern at BCG X Delivery, you will engage in a six-month internship focused on real project work, supporting teams in designing ...",
+    "longDescription": "As a Software Engineering Intern at BCG X Delivery, you will engage in a six-month internship focused on real project work, supporting teams in designing ...",
+    "responsibilities": [
+      "Support the team in building and improving software features.",
+      "Test and document the work delivered during the internship.",
+      "Collaborate with mentors on product or engineering tasks."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Careers appears in a public internship listing sourced from careers.bcg.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://careers.bcg.com/global/en/job/56340/Software-Engineering-Internship-X-Delivery"
+  },
+  {
+    "id": "apify-ccf057ee96b9",
+    "role": "Offres d'emploi Software Developer – Maroc",
+    "company": "Fr",
+    "logo": "FR",
+    "logoBg": "from-clay to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "337 offres d'emploi pour Software Developer dans le lieu sélectionné (Maroc) · Développeur Front‑End Junior · Graduate Software Developer – Software Development.",
+    "longDescription": "337 offres d'emploi pour Software Developer dans le lieu sélectionné (Maroc) · Développeur Front‑End Junior · Graduate Software Developer – Software Development.",
+    "responsibilities": [
+      "Support the team in building and improving software features.",
+      "Test and document the work delivered during the internship.",
+      "Collaborate with mentors on product or engineering tasks."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Fr appears in a public internship listing sourced from fr.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://fr.linkedin.com/jobs/software-developer-emplois-maroc"
+  },
+  {
+    "id": "apify-b5ba53e2ebff",
+    "role": "29 internship it Jobs in Morocco, May 2026",
+    "company": "Glassdoor",
+    "logo": "GLA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Business / Management",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 71,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Search Internship it jobs in Morocco with company ratings & salaries. 29 open jobs for Internship it in Morocco.",
+    "longDescription": "Search Internship it jobs in Morocco with company ratings & salaries. 29 open jobs for Internship it in Morocco.",
+    "responsibilities": [
+      "Search Internship it jobs in Morocco with company ratings & salaries.",
+      "29 open jobs for Internship it in Morocco."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Business / Management and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Project Management"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Glassdoor appears in a public internship listing sourced from glassdoor.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.glassdoor.com/Job/morocco-internship-it-jobs-SRCH_IL.0,7_IN162_KO8,21.htm"
+  },
+  {
+    "id": "apify-314ae4648dab",
+    "role": "62 Fully Remote Software Engineering Jobs in Morocco",
+    "company": "Meetfrank",
+    "logo": "MEE",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "Remote",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Explore the most recent 62 Fully Remote Software Engineering Jobs in Morocco with new ones added daily. Apply now or get headhunted on your own terms.",
+    "longDescription": "Explore the most recent 62 Fully Remote Software Engineering Jobs in Morocco with new ones added daily. Apply now or get headhunted on your own terms.",
+    "responsibilities": [
+      "Explore the most recent 62 Fully Remote Software Engineering Jobs in Morocco with new ones added daily.",
+      "Apply now or get headhunted on your own terms."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Meetfrank appears in a public internship listing sourced from meetfrank.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://meetfrank.com/?category=FULLY_REMOTE&places%5B0%5D%5BcountryShortName%5D=MA&places%5B0%5D%5Bid%5D=5a08cc8d1b7ce3b929d412b9&places%5B0%5D%5Bname%5D=Morocco&places%5B0%5D%5Btype%5D=COUNTRY&speciality=5995b157871fb3a5190aa2fe"
+  },
+  {
+    "id": "apify-e4996ead7552",
+    "role": "software engineering internship à Rabat - offres d'emploi",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-warning to-clay",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Accueil · Parcourir les offres. Emplois pour software engineering internship dans Rabat. 137 offres d'emploi software engineering internship en Maroc.",
+    "longDescription": "Accueil · Parcourir les offres. Emplois pour software engineering internship dans Rabat. 137 offres d'emploi software engineering internship en Maroc.",
+    "responsibilities": [
+      "Emplois pour software engineering internship dans Rabat.",
+      "137 offres d'emploi software engineering internship en Maroc."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.trabajo.org.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.trabajo.org/emploi-software+engineering+internship/Rabat?page=2"
+  },
+  {
+    "id": "apify-4217e60c3a41",
+    "role": "internship software engineer jobs in Morocco",
+    "company": "Ae",
+    "logo": "AE",
+    "logoBg": "from-zellige to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Easy apply to 49 internship software engineer job openings in Morocco on Jobeka. Explore latest internship software engineer job vacancies in Morocco across ...",
+    "longDescription": "Easy apply to 49 internship software engineer job openings in Morocco on Jobeka. Explore latest internship software engineer job vacancies in Morocco across ...",
+    "responsibilities": [
+      "Easy apply to 49 internship software engineer job openings in Morocco on Jobeka.",
+      "Explore latest internship software engineer job vacancies in Morocco across ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ae appears in a public internship listing sourced from ae.jobeka.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ae.jobeka.com/jobs-internship-software-engineer-morocco"
+  },
+  {
+    "id": "apify-06cf86f3a148",
+    "role": "Emploi Stage - Maroc",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-primary to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Bel recrute un Stagiaire développement RH à Casablanca pour un stage de 3-6 mois. Vous participerez aux stratégies de développement des compétences, à la ...",
+    "longDescription": "Bel recrute un Stagiaire développement RH à Casablanca pour un stage de 3-6 mois. Vous participerez aux stratégies de développement des compétences, à la ...",
+    "responsibilities": [
+      "Bel recrute un Stagiaire développement RH à Casablanca pour un stage de 3-6 mois.",
+      "Vous participerez aux stratégies de développement des compétences, à la ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-Stage"
+  },
+  {
+    "id": "apify-1fb5b7e8f31c",
+    "role": "Emploi Afrique - offres d'emploi",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Retrouvez sur rekrute toutes les annonces et offres d'emploi en Afrique des multinationales et grands comptes africains à destination des cadres et ...",
+    "longDescription": "Retrouvez sur rekrute toutes les annonces et offres d'emploi en Afrique des multinationales et grands comptes africains à destination des cadres et ...",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/offres-emploi-afrique.html"
+  },
+  {
+    "id": "apify-60fdda182af1",
+    "role": "Emploi Stage Ressources Humaines Recrutement - Maroc",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-primary to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage préembauche (RH/Recrutement) à Casablanca pour un cabinet conseil leader. Participez activement au processus de recrutement, de la diffusion d'offres ...",
+    "longDescription": "Stage préembauche (RH/Recrutement) à Casablanca pour un cabinet conseil leader. Participez activement au processus de recrutement, de la diffusion d'offres ...",
+    "responsibilities": [
+      "Stage préembauche (RH/Recrutement) à Casablanca pour un cabinet conseil leader.",
+      "Participez activement au processus de recrutement, de la diffusion d'offres ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-Stage-Ressources-Humaines%20Recrutement"
+  },
+  {
+    "id": "apify-eb0c14fc9682",
+    "role": "Emploi stage logistique - Maroc",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-primary to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "AXA GBS Maroc recherche un(e) stagiaire en Logistique pour optimiser le cycle Procure-to-Pay, mettre à jour la documentation opérationnelle et soutenir les ...",
+    "longDescription": "AXA GBS Maroc recherche un(e) stagiaire en Logistique pour optimiser le cycle Procure-to-Pay, mettre à jour la documentation opérationnelle et soutenir les ...",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-stage-logistique"
+  },
+  {
+    "id": "apify-b3e660dbd737",
+    "role": "Emploi stage pfe - Maroc",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-zellige to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Business / Management",
+    "skills": [
+      "Logistics"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage PFE en Logistique | Sala al Jadida (Maroc) · Secteur d'activité : Informatique · Fonction : Achats / Supply Chain · Expérience requise : Débutant (-1 an) ...",
+    "longDescription": "Stage PFE en Logistique | Sala al Jadida (Maroc) · Secteur d'activité : Informatique · Fonction : Achats / Supply Chain · Expérience requise : Débutant (-1 an) ...",
+    "responsibilities": [
+      "Support day-to-day internship tasks with guidance from the team.",
+      "Help document progress and communicate clearly with mentors.",
+      "Apply and strengthen skills such as Logistics."
+    ],
+    "requirements": [
+      "Exposure to Logistics.",
+      "Interest in Business / Management and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Project Management",
+      "Communication",
+      "Microsoft Office"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-stage-pfe"
+  },
+  {
+    "id": "apify-0da1ba4e27e9",
+    "role": "Emploi stage comptabilite - Maroc",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Finance",
+    "skills": [
+      "Finance",
+      "Accounting"
+    ],
+    "match": 86,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stagiaire en comptabilité (F/H) | Technopolis (Maroc). 7. de formation bac+3/5, en gestion comptable et/ou finance d'entreprises, nous vous proposons un stage ...",
+    "longDescription": "Stagiaire en comptabilité (F/H) | Technopolis (Maroc). 7. de formation bac+3/5, en gestion comptable et/ou finance d'entreprises, nous vous proposons un stage ...",
+    "responsibilities": [
+      "Stagiaire en comptabilité (F/H) | Technopolis (Maroc).",
+      "de formation bac+3/5, en gestion comptable et/ou finance d'entreprises, nous vous proposons un stage ..."
+    ],
+    "requirements": [
+      "Exposure to Finance, Accounting.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-stage-comptabilite"
+  },
+  {
+    "id": "apify-d0cd65548dc6",
+    "role": "Emploi stages - Maroc",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-zellige to-success",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Marketing"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Emploi stages - Maroc · Gestionnaire Mutuelle H/F | Casablanca (Maroc) · Stages Campagne Marocains du Monde - MDM | MAROC (Maroc) · Stage PFE- Marketing et ...",
+    "longDescription": "Emploi stages - Maroc · Gestionnaire Mutuelle H/F | Casablanca (Maroc) · Stages Campagne Marocains du Monde - MDM | MAROC (Maroc) · Stage PFE- Marketing et ...",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to Marketing.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-stages"
+  },
+  {
+    "id": "apify-d8b595cfb53e",
+    "role": "Emploi stage ressources humaines - Maroc",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-clay to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Bel recrute un Stagiaire développement RH à Casablanca pour un stage de 3-6 mois. Vous participerez aux stratégies de développement des compétences, ...",
+    "longDescription": "Bel recrute un Stagiaire développement RH à Casablanca pour un stage de 3-6 mois. Vous participerez aux stratégies de développement des compétences, ...",
+    "responsibilities": [
+      "Bel recrute un Stagiaire développement RH à Casablanca pour un stage de 3-6 mois.",
+      "Vous participerez aux stratégies de développement des compétences, ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/emploi-stage-ressources-humaines"
+  },
+  {
+    "id": "apify-7182be5401d4",
+    "role": "Emploi Stage-Informatique / Electronique-Casablanca et région ...",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-warning to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Python",
+      "PHP",
+      "Java",
+      "Sales"
+    ],
+    "match": 87,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Akkodis recherche des stagiaires PFE 2025 pour des postes en développement Salesforce, .Net, Java, Python, Magento, C++, JS, et PHP. Rejoignez une équipe Agile ...",
+    "longDescription": "Akkodis recherche des stagiaires PFE 2025 pour des postes en développement Salesforce, .Net, Java, Python, Magento, C++, JS, et PHP. Rejoignez une équipe Agile ...",
+    "responsibilities": [
+      "Akkodis recherche des stagiaires PFE 2025 pour des postes en développement Salesforce, .Net, Java, Python, Magento, C++, JS, et PHP."
+    ],
+    "requirements": [
+      "Exposure to Python, PHP, Java.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/offres.html?positionId%5B1%5D=13&regionId=4&countryId=134&contractType=5"
+  },
+  {
+    "id": "apify-25d7690de096",
+    "role": "Offres d'emploi Stage Ui Ux Design",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "UX",
+      "UI"
+    ],
+    "match": 86,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Ui Ux Design : 9 emplois sur Indeed.com. Stagiaire Développeur Web, Ui/ux Designer, Agent De Développement et bien d'autres : postulez dès maintenant ...",
+    "longDescription": "Stage Ui Ux Design : 9 emplois sur Indeed.com. Stagiaire Développeur Web, Ui/ux Designer, Agent De Développement et bien d'autres : postulez dès maintenant ...",
+    "responsibilities": [
+      "Stage Ui Ux Design : 9 emplois sur Indeed.com.",
+      "Stagiaire Développeur Web, Ui/ux Designer, Agent De Développement et bien d'autres : postulez dès maintenant ..."
+    ],
+    "requirements": [
+      "Exposure to UX, UI.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-ui-ux-design-emplois.html"
+  },
+  {
+    "id": "apify-3a648cf3c29e",
+    "role": "Stage - Designer UX/UI",
+    "company": "Stagiaires",
+    "logo": "STA",
+    "logoBg": "from-primary to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Design & UX",
+    "skills": [
+      "UX",
+      "UI"
+    ],
+    "match": 86,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "il y a 1 jour — Graviton Solutions recherche un Designer UX/UI passionné pour un stage de 3 à 6 mois en télétravail. Vos missions incluent la conception ...",
+    "longDescription": "il y a 1 jour — Graviton Solutions recherche un Designer UX/UI passionné pour un stage de 3 à 6 mois en télétravail. Vos missions incluent la conception ...",
+    "responsibilities": [
+      "il y a 1 jour — Graviton Solutions recherche un Designer UX/UI passionné pour un stage de 3 à 6 mois en télétravail.",
+      "Vos missions incluent la conception ..."
+    ],
+    "requirements": [
+      "Exposure to UX, UI.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stagiaires appears in a public internship listing sourced from stagiaires.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stagiaires.ma/stage-emploi-maroc/3319-stage-designer-ux-ui"
+  },
+  {
+    "id": "apify-e931acb8ceac",
+    "role": "وظائف ‏Stage Designer‏ في ‏المغرب‏",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "١٥ Stage Designer وظائف في المغرب ; Attijariwafa bank. الدار البيضاء سطات المشور الدار البيضاء المغرب · قبل ‏‏٢‏ أسبوع‏ ; Hilton. منطقة الرباط الحضرية · قبل ‏‏٢‏ ...",
+    "longDescription": "١٥ Stage Designer وظائف في المغرب ; Attijariwafa bank. الدار البيضاء سطات المشور الدار البيضاء المغرب · قبل ‏‏٢‏ أسبوع‏ ; Hilton. منطقة الرباط الحضرية · قبل ‏‏٢‏ ...",
+    "responsibilities": [
+      "١٥ Stage Designer وظائف في المغرب ; Attijariwafa bank.",
+      "الدار البيضاء سطات المشور الدار البيضاء المغرب · قبل ‏‏٢‏ أسبوع‏ ; Hilton.",
+      "منطقة الرباط الحضرية · قبل ‏‏٢‏ ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma",
+      "UI",
+      "UX"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.linkedin.com/jobs/stage-designer-jobs"
+  },
+  {
+    "id": "apify-e3284eafac0d",
+    "role": "Stage Non Rémunéré Designer mobile UI/UX",
+    "company": "Stage",
+    "logo": "STA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "UX",
+      "UI"
+    ],
+    "match": 86,
+    "posted": "2026-03-02T12:00:00.000Z",
+    "stipend": "Not specified",
+    "description": "Offre de Stage — Designer Mobile UX/UI (H/F) Stage | 2-3 mois | Possibilité de pré-embauche À propos du stage Nous recherchons un(e) ...",
+    "longDescription": "Offre de Stage — Designer Mobile UX/UI (H/F) Stage | 2-3 mois | Possibilité de pré-embauche À propos du stage Nous recherchons un(e) ...",
+    "responsibilities": [
+      "Offre de Stage — Designer Mobile UX/UI (H/F) Stage | 2-3 mois | Possibilité de pré-embauche À propos du stage Nous recherchons un(e) ..."
+    ],
+    "requirements": [
+      "Exposure to UX, UI.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stage appears in a public internship listing sourced from stage.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stage.ma/offres-stage/9278-stage-non-remunere-designer-mobile-uiux-100-teletravail"
+  },
+  {
+    "id": "apify-f8255c7558b4",
+    "role": "Offres d'emploi Stage Ux Ui Design",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "UX",
+      "UI"
+    ],
+    "match": 86,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Ux Ui Design : 8 emplois sur Indeed.com. Stagiaire Développeur Web, Ui/ux Designer, Développeur Web et bien d'autres : postulez dès maintenant !",
+    "longDescription": "Stage Ux Ui Design : 8 emplois sur Indeed.com. Stagiaire Développeur Web, Ui/ux Designer, Développeur Web et bien d'autres : postulez dès maintenant !",
+    "responsibilities": [
+      "Stage Ux Ui Design : 8 emplois sur Indeed.com.",
+      "Stagiaire Développeur Web, Ui/ux Designer, Développeur Web et bien d'autres : postulez dès maintenant !"
+    ],
+    "requirements": [
+      "Exposure to UX, UI.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-ux-ui-design-emplois.html"
+  },
+  {
+    "id": "apify-4d3661f7b3ef",
+    "role": "ux designer - Maroc : 59 emplois - Glassdoor",
+    "company": "Glassdoor",
+    "logo": "GLA",
+    "logoBg": "from-clay to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "UX",
+      "UI"
+    ],
+    "match": 95,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Le candidat idéal aura une formation en design graphique, une expérience en UI/UX Design et maîtrisera les outils de design tels que Figma, Adobe XD, ...",
+    "longDescription": "Le candidat idéal aura une formation en design graphique, une expérience en UI/UX Design et maîtrisera les outils de design tels que Figma, Adobe XD, ...",
+    "responsibilities": [
+      "Support design research, wireframes, and interface updates.",
+      "Collaborate on prototypes and design handoff tasks.",
+      "Help document feedback and improve user flows."
+    ],
+    "requirements": [
+      "Exposure to Figma, Adobe XD, UX.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Glassdoor appears in a public internship listing sourced from glassdoor.fr.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.glassdoor.fr/Emploi/maroc-ux-designer-emplois-SRCH_IL.0,5_IN162_KO6,17.htm"
+  },
+  {
+    "id": "apify-7dbce0c6b089",
+    "role": "Stagiaire UX/UI Designer",
+    "company": "Stagiaires",
+    "logo": "STA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Morocco",
+    "remote": "Remote",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "UX",
+      "UI"
+    ],
+    "match": 86,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Nous recherchons un(e) stagiaire UX/UI Designer passionné(e) par l'expérience utilisateur et le design d'interfaces modernes afin de participer, à distance, à ...",
+    "longDescription": "Nous recherchons un(e) stagiaire UX/UI Designer passionné(e) par l'expérience utilisateur et le design d'interfaces modernes afin de participer, à distance, à ...",
+    "responsibilities": [
+      "Support design research, wireframes, and interface updates.",
+      "Collaborate on prototypes and design handoff tasks.",
+      "Help document feedback and improve user flows."
+    ],
+    "requirements": [
+      "Exposure to UX, UI.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stagiaires appears in a public internship listing sourced from stagiaires.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stagiaires.ma/stage-emploi-maroc/3254-stagiaire-ux-ui-designer"
+  },
+  {
+    "id": "apify-b988f99f10a8",
+    "role": "Offre d'emploi Stagiare PFE - UI/UX Designer - Casablanca",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-primary to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "UX",
+      "UI"
+    ],
+    "match": 86,
+    "posted": "2026-01-30T12:00:00.000Z",
+    "stipend": "Not specified",
+    "description": "Stagiare PFE - UI/UX Designer - Casablanca. Informatique / Electronique - Secteur Autres Industries. Débutant (-1 an); 10 poste(s) sur ...",
+    "longDescription": "Stagiare PFE - UI/UX Designer - Casablanca. Informatique / Electronique - Secteur Autres Industries. Débutant (-1 an); 10 poste(s) sur ...",
+    "responsibilities": [
+      "Stagiare PFE - UI/UX Designer - Casablanca.",
+      "Informatique / Electronique - Secteur Autres Industries.",
+      "Débutant (-1 an); 10 poste(s) sur ..."
+    ],
+    "requirements": [
+      "Exposure to UX, UI.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/offre-emploi-stagiare-pfe---uiux-designer-recrutement-capgemini-engineering-casablanca-179227.html"
+  },
+  {
+    "id": "apify-00930ee25d02",
+    "role": "UX/UI Designer - Stage - ITROAD GROUP",
+    "company": "Itroadgroup",
+    "logo": "ITR",
+    "logoBg": "from-clay to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "Git",
+      "Photoshop",
+      "Illustrator",
+      "UX",
+      "UI"
+    ],
+    "match": 95,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "✔️ Maîtrise des logiciels de graphisme (Photoshop, Illustrator, InDesign, etc.). ✔️ Compétences en création de visuels pour le print et le digital. ✔️ Connaissance ...",
+    "longDescription": "✔️ Maîtrise des logiciels de graphisme (Photoshop, Illustrator, InDesign, etc.). ✔️ Compétences en création de visuels pour le print et le digital. ✔️ Connaissance ...",
+    "responsibilities": [
+      "✔️ Maîtrise des logiciels de graphisme (Photoshop, Illustrator, InDesign, etc.).",
+      "✔️ Compétences en création de visuels pour le print et le digital."
+    ],
+    "requirements": [
+      "Exposure to Git, Photoshop, Illustrator.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Itroadgroup appears in a public internship listing sourced from itroadgroup.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://itroadgroup.com/jobs/ux-ui-designer-stage/"
+  },
+  {
+    "id": "apify-20151b08803c",
+    "role": "emplois stage développement informatique",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-clay to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Développement Informatique : 104 emplois sur Indeed.com. Stagiaire Informatique, Développeur Full Stack, Développeur Web et bien d'autres : postulez ...",
+    "longDescription": "Stage Développement Informatique : 104 emplois sur Indeed.com. Stagiaire Informatique, Développeur Full Stack, Développeur Web et bien d'autres : postulez ...",
+    "responsibilities": [
+      "Stage Développement Informatique : 104 emplois sur Indeed.com.",
+      "Stagiaire Informatique, Développeur Full Stack, Développeur Web et bien d'autres : postulez ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-d%C3%A9veloppement-informatique-emplois.html"
+  },
+  {
+    "id": "apify-65ef58f9351b",
+    "role": "Stage Informatique : plus de 200 emplois (15 mai 2026)",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Informatique : 203 emplois sur Indeed.com. Stagiaire Informatique, Webmaster, Développeur Web et bien d'autres : postulez dès maintenant !",
+    "longDescription": "Stage Informatique : 203 emplois sur Indeed.com. Stagiaire Informatique, Webmaster, Développeur Web et bien d'autres : postulez dès maintenant !",
+    "responsibilities": [
+      "Stage Informatique : 203 emplois sur Indeed.com.",
+      "Stagiaire Informatique, Webmaster, Développeur Web et bien d'autres : postulez dès maintenant !"
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-informatique-emplois.html"
+  },
+  {
+    "id": "apify-7a3339198d05",
+    "role": "Offres d'emploi : stage informatique au Maroc",
+    "company": "Optioncarriere",
+    "logo": "OPT",
+    "logoBg": "from-primary to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Business / Management",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 71,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Consultez nos 14 offres d'emploi stage informatique au Maroc en CDI ou CDD publiées sur Optioncarriere. Tous les postes à pourvoir en une seule recherche.",
+    "longDescription": "Consultez nos 14 offres d'emploi stage informatique au Maroc en CDI ou CDD publiées sur Optioncarriere. Tous les postes à pourvoir en une seule recherche.",
+    "responsibilities": [
+      "Consultez nos 14 offres d'emploi stage informatique au Maroc en CDI ou CDD publiées sur Optioncarriere.",
+      "Tous les postes à pourvoir en une seule recherche."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Business / Management and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Project Management"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Optioncarriere appears in a public internship listing sourced from optioncarriere.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.optioncarriere.ma/emploi-stage-informatique"
+  },
+  {
+    "id": "apify-e88f76503ccd",
+    "role": "Emplois Stage Informatique Bac 2 - Casablanca",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-success",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Informatique Bac 2, Casablanca : 27 emplois sur Indeed.com. Développeur Full Stack, Chef De Projet, Stagiaire Informatique et bien d'autres : postulez ...",
+    "longDescription": "Stage Informatique Bac 2, Casablanca : 27 emplois sur Indeed.com. Développeur Full Stack, Chef De Projet, Stagiaire Informatique et bien d'autres : postulez ...",
+    "responsibilities": [
+      "Stage Informatique Bac 2, Casablanca : 27 emplois sur Indeed.com.",
+      "Développeur Full Stack, Chef De Projet, Stagiaire Informatique et bien d'autres : postulez ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-informatique-bac-2-l-casablanca-emplois.html"
+  },
+  {
+    "id": "apify-fea31d054325",
+    "role": "Les offres d'emploi stage informatique",
+    "company": "Offres Emploi",
+    "logo": "OFF",
+    "logoBg": "from-warning to-clay",
+    "location": "Fes",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Git",
+      "Marketing"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Les offres d'emploi stage informatique ; Stage développeur full stack (h/f) en présentiel su fes. Fès 04/05/2026 Giant link ; Offre de stage en marketing digital.",
+    "longDescription": "Les offres d'emploi stage informatique ; Stage développeur full stack (h/f) en présentiel su fes. Fès 04/05/2026 Giant link ; Offre de stage en marketing digital.",
+    "responsibilities": [
+      "Les offres d'emploi stage informatique ; Stage développeur full stack (h/f) en présentiel su fes.",
+      "Fès 04/05/2026 Giant link ; Offre de stage en marketing digital."
+    ],
+    "requirements": [
+      "Exposure to Git, Marketing.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Offres Emploi appears in a public internship listing sourced from offres-emploi.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.offres-emploi.ma/stage-informatique.mc"
+  },
+  {
+    "id": "apify-6276530a3030",
+    "role": "Emploi Informatique - Electronique - Tous pays",
+    "company": "Rekrute",
+    "logo": "REK",
+    "logoBg": "from-warning to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Technicien maintenance réseau informatique débutant | Casablanca (Maroc) ... Un niveau Bac +2 en informatique ou électronique est requis, avec une expérience d'un ...",
+    "longDescription": "Technicien maintenance réseau informatique débutant | Casablanca (Maroc) ... Un niveau Bac +2 en informatique ou électronique est requis, avec une expérience d'un ...",
+    "responsibilities": [
+      "Technicien maintenance réseau informatique débutant | Casablanca (Maroc) ...",
+      "Un niveau Bac +2 en informatique ou électronique est requis, avec une expérience d'un ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Rekrute appears in a public internship listing sourced from rekrute.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.rekrute.com/offres-emploi-informatique-electronique-fonction-13.html"
+  },
+  {
+    "id": "apify-89854597587a",
+    "role": "Emploi d'urgence! Developpeur informatique stage pfe Maroc",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "API"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Emploi : Developpeur informatique stage pfe à Maroc • Recherche parmi 4.300+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à ...",
+    "longDescription": "Emploi : Developpeur informatique stage pfe à Maroc • Recherche parmi 4.300+ offres d'emploi en cours • Rapide & Gratuit • Temps plein, temporaire et à ...",
+    "responsibilities": [
+      "Support the team in building and improving software features.",
+      "Test and document the work delivered during the internship.",
+      "Collaborate with mentors on product or engineering tasks."
+    ],
+    "requirements": [
+      "Exposure to API.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Git",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.jooble.org.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.jooble.org/emploi-developpeur-informatique-stage-pfe/Maroc"
+  },
+  {
+    "id": "apify-5b74390744ef",
+    "role": "Emplois stage Maroc",
+    "company": "Emploi.ma",
+    "logo": "EMP",
+    "logoBg": "from-primary to-warning",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Marketing"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stagiaire en Marketing and Growth (H/F) - Rabat · Niveau d´études requis : Bac+5 et plus · Niveau d'expérience : Etudiant, jeune diplômé · Contrat proposé : ...",
+    "longDescription": "Stagiaire en Marketing and Growth (H/F) - Rabat · Niveau d´études requis : Bac+5 et plus · Niveau d'expérience : Etudiant, jeune diplômé · Contrat proposé : ...",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to Marketing.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Emploi.ma appears in a public internship listing sourced from emploi.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.emploi.ma/recherche-jobs-maroc/stage"
+  },
+  {
+    "id": "apify-251d5e60bec1",
+    "role": "STAGIAIRES.MA Casablanca",
+    "company": "Emploi.ma",
+    "logo": "EMP",
+    "logoBg": "from-clay to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stagiaires.ma est le site Internet des stages et des stagiaires au Maroc. Le site met à la disposition des utilisateurs plusieurs fonctionnalités pour : Les ...",
+    "longDescription": "Stagiaires.ma est le site Internet des stages et des stagiaires au Maroc. Le site met à la disposition des utilisateurs plusieurs fonctionnalités pour : Les ...",
+    "responsibilities": [
+      "Stagiaires.ma est le site Internet des stages et des stagiaires au Maroc.",
+      "Le site met à la disposition des utilisateurs plusieurs fonctionnalités pour : Les ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Emploi.ma appears in a public internship listing sourced from emploi.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.emploi.ma/recruteur/977228"
+  },
+  {
+    "id": "apify-881c0ad48126",
+    "role": "Offre de stage - BERKANE - Oujda",
+    "company": "Emploi.ma",
+    "logo": "EMP",
+    "logoBg": "from-warning to-clay",
+    "location": "Oujda",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "19 juil. 2013 — Offre de stage technicien électromécanicien, informatique et ... TECTRA est aujourd'hui leader du conseil en Ressources Humaines au Maroc.",
+    "longDescription": "19 juil. 2013 — Offre de stage technicien électromécanicien, informatique et ... TECTRA est aujourd'hui leader du conseil en Ressources Humaines au Maroc.",
+    "responsibilities": [
+      "2013 — Offre de stage technicien électromécanicien, informatique et ...",
+      "TECTRA est aujourd'hui leader du conseil en Ressources Humaines au Maroc."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Emploi.ma appears in a public internship listing sourced from emploi.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/offre-stage-389342"
+  },
+  {
+    "id": "apify-08daf1fafb91",
+    "role": "Stagiaire en Gestion de Projet ( Stage Rémunéré)",
+    "company": "Emploi.ma",
+    "logo": "EMP",
+    "logoBg": "from-clay to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "2 months",
+    "field": "Finance",
+    "skills": [
+      "SOC"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "5 août 2023 — Nous recrutons pour le compte d'une société évoluant dans le secteur de la comptabilité un Stagiaire en gestion de Projet rémunéré",
+    "longDescription": "5 août 2023 — Nous recrutons pour le compte d'une société évoluant dans le secteur de la comptabilité un Stagiaire en gestion de Projet rémunéré",
+    "responsibilities": [
+      "Support reporting, reconciliations, or budget follow-up tasks.",
+      "Help organize financial documents and basic analysis work.",
+      "Prepare clear updates for the finance team with mentor support."
+    ],
+    "requirements": [
+      "Exposure to SOC.",
+      "Interest in Finance and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Excel",
+      "Accounting",
+      "Audit"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Emploi.ma appears in a public internship listing sourced from emploi.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/stagiaire-gestion-projet-7915269"
+  },
+  {
+    "id": "apify-3b633ca07a28",
+    "role": "Offre d'emploi Maroc : Stage Pré-embauche en HSE",
+    "company": "Emploi.ma",
+    "logo": "EMP",
+    "logoBg": "from-clay to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "4 juil. 2022 — Nous recrutons un Stagiaire Animateur Chargé HSE (H/F) qui sera en contact avec tous les acteurs opérationnels de l'entreprise sur les deux ...",
+    "longDescription": "4 juil. 2022 — Nous recrutons un Stagiaire Animateur Chargé HSE (H/F) qui sera en contact avec tous les acteurs opérationnels de l'entreprise sur les deux ...",
+    "responsibilities": [
+      "Support design research, wireframes, and interface updates.",
+      "Collaborate on prototypes and design handoff tasks.",
+      "Help document feedback and improve user flows."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma",
+      "UI",
+      "UX"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Emploi.ma appears in a public internship listing sourced from emploi.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/stage-pre-embauche-hse-7081406"
+  },
+  {
+    "id": "apify-2d6692c65eea",
+    "role": "Offre de stage : Département des Opérations - Casablanca",
+    "company": "Emploi.ma",
+    "logo": "EMP",
+    "logoBg": "from-zellige to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "12 août 2025 — Profil recherché pour le poste : Offre de stage : Département des Opérations - Casablanca · Formation : Bac+3 en Économie, Gestion ou équivalent ...",
+    "longDescription": "12 août 2025 — Profil recherché pour le poste : Offre de stage : Département des Opérations - Casablanca · Formation : Bac+3 en Économie, Gestion ou équivalent ...",
+    "responsibilities": [
+      "Support design research, wireframes, and interface updates.",
+      "Collaborate on prototypes and design handoff tasks.",
+      "Help document feedback and improve user flows."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma",
+      "UI",
+      "UX"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Emploi.ma appears in a public internship listing sourced from emploi.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/offre-stage-departement-operations-casablanca-8916643"
+  },
+  {
+    "id": "apify-627d8eb34269",
+    "role": "Assistant de Recherche - Stage pré-embauche",
+    "company": "Emploi.ma",
+    "logo": "EMP",
+    "logoBg": "from-zellige to-success",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Design & UX",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Dans le cadre de notre renforcement d'équipe, nous cherchons un Assistant de Recherche H / F (Stage 3 - 6 Mois) à Casablanca.",
+    "longDescription": "Dans le cadre de notre renforcement d'équipe, nous cherchons un Assistant de Recherche H / F (Stage 3 - 6 Mois) à Casablanca.",
+    "responsibilities": [
+      "Dans le cadre de notre renforcement d'équipe, nous cherchons un Assistant de Recherche H / F (Stage 3 - 6 Mois) à Casablanca."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma",
+      "UI",
+      "UX"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Emploi.ma appears in a public internship listing sourced from emploi.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/assistant-recherche-stage-pre-embauche-814209"
+  },
+  {
+    "id": "apify-84f564995730",
+    "role": "Offre d'emploi Maroc : Stage PFE RH - Casablanca",
+    "company": "Emploi.ma",
+    "logo": "EMP",
+    "logoBg": "from-zellige to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "2023-03-11T12:00:00.000Z",
+    "stipend": "Not specified",
+    "description": "Profil recherché pour le poste : Stage PFE RH · Profil : Bac+5 · Durée : de 4 à 6 mois. · Convention de stage obligatoire. Si vous aimez ...",
+    "longDescription": "Profil recherché pour le poste : Stage PFE RH · Profil : Bac+5 · Durée : de 4 à 6 mois. · Convention de stage obligatoire. Si vous aimez ...",
+    "responsibilities": [
+      "Profil recherché pour le poste : Stage PFE RH · Profil : Bac+5 · Durée : de 4 à 6 mois."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Emploi.ma appears in a public internship listing sourced from emploi.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/stage-pfe-rh-7631393"
+  },
+  {
+    "id": "apify-ba2dcd4548a2",
+    "role": "وظائف ‏Stage‏ في ‏المغرب‏",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Business / Management",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 71,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "٢٠٢ Stage وظائف في المغرب · Consultant Junior – People Strategy & Transformation · Export Manager MENA (based in Algeria or Kenya) · Juriste junior – Droit des ...",
+    "longDescription": "٢٠٢ Stage وظائف في المغرب · Consultant Junior – People Strategy & Transformation · Export Manager MENA (based in Algeria or Kenya) · Juriste junior – Droit des ...",
+    "responsibilities": [
+      "Support day-to-day internship tasks with guidance from the team.",
+      "Help document progress and communicate clearly with mentors.",
+      "Apply and strengthen skills such as Communication, Microsoft Office."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Business / Management and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Project Management"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.linkedin.com/jobs/stage-jobs"
+  },
+  {
+    "id": "apify-c7eb9845097d",
+    "role": "وظائف ‏‏١٦‏‏ ‏Offre De Stage‏ في ‏المغرب‏ ‏(‏٢‏ جديد)",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-clay to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Logistics"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Offre de stage : Stagiaire Développeur Full-Stack & DevOps – Poste basé à Berrechid. MA LOGISTICS. الدار البيضاء سطات برشيد المغرب قبل ‏‏٢‏ أسبوع‏.",
+    "longDescription": "Offre de stage : Stagiaire Développeur Full-Stack & DevOps – Poste basé à Berrechid. MA LOGISTICS. الدار البيضاء سطات برشيد المغرب قبل ‏‏٢‏ أسبوع‏.",
+    "responsibilities": [
+      "Offre de stage : Stagiaire Développeur Full-Stack & DevOps – Poste basé à Berrechid.",
+      "الدار البيضاء سطات برشيد المغرب قبل ‏‏٢‏ أسبوع‏."
+    ],
+    "requirements": [
+      "Exposure to Logistics.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.linkedin.com/jobs/offre-de-stage-jobs"
+  },
+  {
+    "id": "apify-26692fd43629",
+    "role": "Royal Air Maroc hiring Stage Rémunéré - Mobile Seller in ...",
+    "company": "LinkedIn",
+    "logo": "LIN",
+    "logoBg": "from-primary to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Nous recherchons des étudiants de 1ère ou 2ème année d'écoles de commerce, maîtrisant parfaitement les trois langues (Arabe, Français et Anglais) pour une ...",
+    "longDescription": "Nous recherchons des étudiants de 1ère ou 2ème année d'écoles de commerce, maîtrisant parfaitement les trois langues (Arabe, Français et Anglais) pour une ...",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "LinkedIn appears in a public internship listing sourced from linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.linkedin.com/jobs/view/3664857024/"
+  },
+  {
+    "id": "apify-c3a4078737ed",
+    "role": "Stage à distance en SEO/Referencement Web",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-warning to-clay",
+    "location": "Morocco",
+    "remote": "Remote",
+    "duration": "3 months",
+    "field": "Design & UX",
+    "skills": [
+      "SEO"
+    ],
+    "match": 78,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Formation Gratuite en SEO (Search Engine Optimization) : Apprenez les fondamentaux du SEO et maîtrisez les techniques avancées pour améliorer la visibilité en ...",
+    "longDescription": "Formation Gratuite en SEO (Search Engine Optimization) : Apprenez les fondamentaux du SEO et maîtrisez les techniques avancées pour améliorer la visibilité en ...",
+    "responsibilities": [
+      "Support design research, wireframes, and interface updates.",
+      "Collaborate on prototypes and design handoff tasks.",
+      "Help document feedback and improve user flows."
+    ],
+    "requirements": [
+      "Exposure to SEO.",
+      "Interest in Design & UX and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Figma",
+      "UI",
+      "UX"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.linkedin.com/jobs/view/stage-%C3%A0-distance-en-seo-referencement-web-at-emploi-et-recrutement-au-maroc-4284366921"
+  },
+  {
+    "id": "apify-cdbeb80c39c2",
+    "role": "Stage Pre-Embauche Approvisionnement/Achats/Stock",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-clay to-warning",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Business / Management",
+    "skills": [
+      "Logistics"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage Pre-Embauche Approvisionnement/Achats/Stock : Casablanca · مستوى الأقدمية. فترة تدريب · نوع التوظيف. دوام كامل · المجالات. مقدمو التعليم الإلكتروني.",
+    "longDescription": "Stage Pre-Embauche Approvisionnement/Achats/Stock : Casablanca · مستوى الأقدمية. فترة تدريب · نوع التوظيف. دوام كامل · المجالات. مقدمو التعليم الإلكتروني.",
+    "responsibilities": [
+      "Stage Pre-Embauche Approvisionnement/Achats/Stock : Casablanca · مستوى الأقدمية."
+    ],
+    "requirements": [
+      "Exposure to Logistics.",
+      "Interest in Business / Management and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "Project Management",
+      "Communication",
+      "Microsoft Office"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.linkedin.com/jobs/view/stage-pre-embauche-approvisionnement-achats-stock-casablanca-at-emploi-et-recrutement-au-maroc-4036000760"
+  },
+  {
+    "id": "apify-0b9956ff1ef2",
+    "role": "Stage PFE : Commerce/Ventes B2B : Casablanca",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Sales"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Stage PFE menant à un contrat CDI. ✨ Passionné(e) par le développement commercial ? Aimer les défis, le travail d'équipe et le partage ? Alors, ce stage est ...",
+    "longDescription": "Stage PFE menant à un contrat CDI. ✨ Passionné(e) par le développement commercial ? Aimer les défis, le travail d'équipe et le partage ? Alors, ce stage est ...",
+    "responsibilities": [
+      "✨ Passionné(e) par le développement commercial ?",
+      "Aimer les défis, le travail d'équipe et le partage ?"
+    ],
+    "requirements": [
+      "Exposure to Sales.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.linkedin.com/jobs/view/stage-pfe-commerce-ventes-b2b-casablanca-at-emploi-et-recrutement-au-maroc-4074717870"
+  },
+  {
+    "id": "apify-a0b3303ba6a1",
+    "role": "Stage Pré-Embauche - Marketing Operations",
+    "company": "Fr",
+    "logo": "FR",
+    "logoBg": "from-zellige to-success",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "SOC",
+      "Marketing",
+      "Project Management"
+    ],
+    "match": 79,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Tu es en école de commerce ou marketing, à l'aise sur les réseaux sociaux, curieux(se), réactif et tu aimes échanger avec des prospects en ligne ?",
+    "longDescription": "Tu es en école de commerce ou marketing, à l'aise sur les réseaux sociaux, curieux(se), réactif et tu aimes échanger avec des prospects en ligne ?",
+    "responsibilities": [
+      "Help clean, analyze, and report on business or product data.",
+      "Support dashboard updates and basic data validation work.",
+      "Present insights clearly to the team with mentor guidance."
+    ],
+    "requirements": [
+      "Exposure to SOC, Marketing, Project Management.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Fr appears in a public internship listing sourced from fr.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://fr.linkedin.com/jobs/view/stage-pr%C3%A9-embauche-marketing-operations-at-mvip-consulting-4345397177"
+  },
+  {
+    "id": "apify-0812431b8d3c",
+    "role": "Stage PFE Pre-Embauche Responsable Commercial ...",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Data & AI",
+    "skills": [
+      "Sales"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Embarque en tant que stagiaire Commercial pendant 3-6 mois ! Passionné(e par le développement commercial, tu aimes relever des défis, travailler en équipe et ...",
+    "longDescription": "Embarque en tant que stagiaire Commercial pendant 3-6 mois ! Passionné(e par le développement commercial, tu aimes relever des défis, travailler en équipe et ...",
+    "responsibilities": [
+      "Embarque en tant que stagiaire Commercial pendant 3-6 mois !",
+      "Passionné(e par le développement commercial, tu aimes relever des défis, travailler en équipe et ..."
+    ],
+    "requirements": [
+      "Exposure to Sales.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.linkedin.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.linkedin.com/jobs/view/stage-pfe-pre-embauche-responsable-commercial-casablanca-at-emploi-et-recrutement-au-maroc-3810019462"
+  },
+  {
+    "id": "apify-fc1a2bbf6713",
+    "role": "Stage Marketing : plus de 300 emplois (13 mai 2026)",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-clay",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Marketing",
+    "skills": [
+      "Git",
+      "Marketing",
+      "Communication"
+    ],
+    "match": 84,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Offre de Stage – Marketing Digital (Pré-embauche Rémunérée) | Casablanca*. Étudiant(e) Bac+3/4/5 en Marketing Digital, Communication ou Commerce.",
+    "longDescription": "Offre de Stage – Marketing Digital (Pré-embauche Rémunérée) | Casablanca*. Étudiant(e) Bac+3/4/5 en Marketing Digital, Communication ou Commerce.",
+    "responsibilities": [
+      "Offre de Stage – Marketing Digital (Pré-embauche Rémunérée) | Casablanca*.",
+      "Étudiant(e) Bac+3/4/5 en Marketing Digital, Communication ou Commerce."
+    ],
+    "requirements": [
+      "Exposure to Git, Marketing, Communication.",
+      "Interest in Marketing and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SEO",
+      "Social Media"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-marketing-emplois.html"
+  },
+  {
+    "id": "apify-f553610273d2",
+    "role": "Emplois Stage Marketing - Casablanca",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-zellige to-success",
+    "location": "Casablanca",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Marketing",
+    "skills": [
+      "Git",
+      "Marketing",
+      "Communication"
+    ],
+    "match": 84,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Offre de Stage – Marketing Digital (Pré-embauche Rémunérée) | Casablanca*. Étudiant(e) Bac+3/4/5 en Marketing Digital, Communication ou Commerce.",
+    "longDescription": "Offre de Stage – Marketing Digital (Pré-embauche Rémunérée) | Casablanca*. Étudiant(e) Bac+3/4/5 en Marketing Digital, Communication ou Commerce.",
+    "responsibilities": [
+      "Offre de Stage – Marketing Digital (Pré-embauche Rémunérée) | Casablanca*.",
+      "Étudiant(e) Bac+3/4/5 en Marketing Digital, Communication ou Commerce."
+    ],
+    "requirements": [
+      "Exposure to Git, Marketing, Communication.",
+      "Interest in Marketing and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SEO",
+      "Social Media"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-marketing-l-casablanca-emplois.html"
+  },
+  {
+    "id": "apify-b8af2f012863",
+    "role": "Offres de stage en Marketing au Maroc",
+    "company": "Stage",
+    "logo": "STA",
+    "logoBg": "from-clay to-warning",
+    "location": "Fes",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Marketing",
+    "skills": [
+      "Marketing"
+    ],
+    "match": 73,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Parcourez +500 stages en Marketing au Maroc et découvrez des opportunités pour acquérir une expérience professionnelle et lancer votre carrière en Mar...",
+    "longDescription": "Parcourez +500 stages en Marketing au Maroc et découvrez des opportunités pour acquérir une expérience professionnelle et lancer votre carrière en Mar...",
+    "responsibilities": [
+      "Support campaign planning and content coordination tasks.",
+      "Track results and summarize performance with the team.",
+      "Help prepare communication materials for public channels."
+    ],
+    "requirements": [
+      "Exposure to Marketing.",
+      "Interest in Marketing and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SEO",
+      "Social Media",
+      "Communication"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stage appears in a public internship listing sourced from stage.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stage.ma/specialites/marketing"
+  },
+  {
+    "id": "apify-9178645fdb85",
+    "role": "Stage Marketing, Rabat : plus de 50 emplois (14 mai 2026)",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-warning to-clay",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "6 months",
+    "field": "Computer Science",
+    "skills": [
+      "Git",
+      "Marketing"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Nous recrutons deux stagiaires en marketing digital pour un *stage pré-embauche de 6 mois non rémunéré. Intérêt pour le marketing B2B. Formation en marketing ...",
+    "longDescription": "Nous recrutons deux stagiaires en marketing digital pour un *stage pré-embauche de 6 mois non rémunéré. Intérêt pour le marketing B2B. Formation en marketing ...",
+    "responsibilities": [
+      "Nous recrutons deux stagiaires en marketing digital pour un *stage pré-embauche de 6 mois non rémunéré."
+    ],
+    "requirements": [
+      "Exposure to Git, Marketing.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-marketing-l-rabat-emplois.html"
+  },
+  {
+    "id": "apify-089f04135fbe",
+    "role": "Offres de Stage et 1er Emploi au Maroc 2026",
+    "company": "Stagiaires",
+    "logo": "STA",
+    "logoBg": "from-primary to-clay",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Data & AI",
+    "skills": [
+      "Communication",
+      "Microsoft Office"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Le site de référence pour l'emploi au Maroc. Trouvez votre prochain stage ou premier emploi parmi nos 18.000 offres de recrutement mises à jour ...",
+    "longDescription": "Le site de référence pour l'emploi au Maroc. Trouvez votre prochain stage ou premier emploi parmi nos 18.000 offres de recrutement mises à jour ...",
+    "responsibilities": [
+      "Le site de référence pour l'emploi au Maroc.",
+      "Trouvez votre prochain stage ou premier emploi parmi nos 18.000 offres de recrutement mises à jour ..."
+    ],
+    "requirements": [
+      "Exposure to Communication, Microsoft Office.",
+      "Interest in Data & AI and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Stagiaires appears in a public internship listing sourced from stagiaires.ma.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.stagiaires.ma/stage-emploi-maroc"
+  },
+  {
+    "id": "apify-e4c789c24ae8",
+    "role": "internship marketing - Maroc : 45 emplois - Glassdoor",
+    "company": "Glassdoor",
+    "logo": "GLA",
+    "logoBg": "from-zellige to-success",
+    "location": "Rabat",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Computer Science",
+    "skills": [
+      "Git",
+      "Marketing"
+    ],
+    "match": 76,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "45 emploi(s) pour Internship marketing, Maroc · ASCII-Core. Unpaid Marketing Internship · Graviton Solutions. STAGE: Marketing Digital – Graviton Solutions (Rabat).",
+    "longDescription": "45 emploi(s) pour Internship marketing, Maroc · ASCII-Core. Unpaid Marketing Internship · Graviton Solutions. STAGE: Marketing Digital – Graviton Solutions (Rabat).",
+    "responsibilities": [
+      "45 emploi(s) pour Internship marketing, Maroc · ASCII-Core.",
+      "Unpaid Marketing Internship · Graviton Solutions.",
+      "STAGE: Marketing Digital – Graviton Solutions (Rabat)."
+    ],
+    "requirements": [
+      "Exposure to Git, Marketing.",
+      "Interest in Computer Science and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "API",
+      "JavaScript"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Glassdoor appears in a public internship listing sourced from glassdoor.fr.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://www.glassdoor.fr/Emploi/maroc-internship-marketing-emplois-SRCH_IL.0,5_IN162_KO6,26.htm"
+  },
+  {
+    "id": "apify-e68b163fcc12",
+    "role": "Stage Marketing Maroc : plus de 50 emplois (14 mai 2026)",
+    "company": "Ma",
+    "logo": "MA",
+    "logoBg": "from-primary to-warning",
+    "location": "Morocco",
+    "remote": "On-site",
+    "duration": "3 months",
+    "field": "Marketing",
+    "skills": [
+      "Marketing",
+      "Communication"
+    ],
+    "match": 81,
+    "posted": "Recently posted",
+    "stipend": "Not specified",
+    "description": "Ce stage est une belle opportunité pour développer tes compétences en marketing B2B, communication visuelle et coordination de projets, dans un environnement ...",
+    "longDescription": "Ce stage est une belle opportunité pour développer tes compétences en marketing B2B, communication visuelle et coordination de projets, dans un environnement ...",
+    "responsibilities": [
+      "Support campaign planning and content coordination tasks.",
+      "Track results and summarize performance with the team.",
+      "Help prepare communication materials for public channels."
+    ],
+    "requirements": [
+      "Exposure to Marketing, Communication.",
+      "Interest in Marketing and willingness to learn in a professional setting.",
+      "Good communication skills and ability to work with a team."
+    ],
+    "niceToHave": [
+      "SEO",
+      "Social Media"
+    ],
+    "perks": [
+      "Real internship experience",
+      "Mentorship opportunity",
+      "Public listing source"
+    ],
+    "aboutCompany": "Ma appears in a public internship listing sourced from ma.indeed.com.",
+    "applicationProcess": [
+      {
+        "step": "Apply",
+        "desc": "Apply through source link."
+      },
+      {
+        "step": "Review",
+        "desc": "Company review."
+      },
+      {
+        "step": "Interview",
+        "desc": "Interview."
+      }
+    ],
+    "openings": 1,
+    "startDate": "Not specified",
+    "teamSize": "Not specified",
+    "sourceUrl": "https://ma.indeed.com/q-stage-marketing-maroc-emplois.html"
   }
 ]

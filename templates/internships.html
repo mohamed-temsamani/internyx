@@ -50,6 +50,12 @@
           {% endfor %}
         </div>
         <div class="filter-group">
+          <h3>Skills</h3>
+          {% for option in options.skills %}
+          <label><input class="form-check-input" type="checkbox" name="skill" value="{{ option }}" {% if option in selected_skills %}checked{% endif %}> {{ option }}</label>
+          {% endfor %}
+        </div>
+        <div class="filter-group">
           <h3>City</h3>
           {% for option in options.cities %}
           <label><input class="form-check-input" type="checkbox" name="city" value="{{ option }}" {% if option in selected_cities %}checked{% endif %}> {{ option }}</label>
