@@ -323,6 +323,24 @@ def create_app(test_config: dict[str, Any] | None = None) -> Flask:
             saved=saved,
         )
 
+    @app.route("/profile/edit")
+    def edit_profile_page():
+        return render_template(
+            "edit_profile.html",
+            title="Edit Profile — Internyx",
+        )
+
+    @app.post("/profile/update")
+    def update_profile():
+        PROFILE["name"] = request.form.get("name", "").strip() or PROFILE["name"]
+        PROFILE["subtitle"] = request.form.get("subtitle", "").strip() or PROFILE["subtitle"]
+        PROFILE["location"] = request.form.get("location", "").strip() or PROFILE["location"]
+        PROFILE["education"] = request.form.get("education", "").strip() or PROFILE["education"]
+        PROFILE["email"] = request.form.get("email", "").strip() or PROFILE["email"]
+        PROFILE["about"] = request.form.get("about", "").strip() or PROFILE["about"]
+        flash("Profile updated successfully!", "success")
+        return redirect(url_for("profile_page"))
+
     @app.errorhandler(404)
     def not_found(error: Exception):
         return render_template("404.html", title="Not found — Internyx"), 404

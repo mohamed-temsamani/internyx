@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container-xl py-5">
+  <div class="row justify-content-center">
+    <div class="col-lg-6">
+      <div class="section-card">
+        <h1 class="h3 fw-bold mb-4">Edit Profile</h1>
+        <form method="post" action="{{ url_for('update_profile') }}" class="vstack gap-4">
+          <div>
+            <label for="name" class="form-label fw-semibold">Full Name</label>
+            <input type="text" class="form-control" id="name" name="name" value="{{ profile.name }}" required>
+          </div>
+          <div>
+            <label for="subtitle" class="form-label fw-semibold">Subtitle</label>
+            <input type="text" class="form-control" id="subtitle" name="subtitle" placeholder="e.g., Computer Science · 2nd year · ENSIAS" value="{{ profile.subtitle }}">
+            <small class="text-muted">Your field, year, and school</small>
+          </div>
+          <div>
+            <label for="location" class="form-label fw-semibold">Location</label>
+            <input type="text" class="form-control" id="location" name="location" placeholder="e.g., Rabat, Morocco" value="{{ profile.location }}">
+          </div>
+          <div>
+            <label for="education" class="form-label fw-semibold">Education</label>
+            <input type="text" class="form-control" id="education" name="education" placeholder="e.g., ENSIAS · Class of 2027" value="{{ profile.education }}">
+          </div>
+          <div>
+            <label for="email" class="form-label fw-semibold">Email</label>
+            <input type="email" class="form-control" id="email" name="email" value="{{ profile.email }}" required>
+          </div>
+          <div>
+            <label for="about" class="form-label fw-semibold">About</label>
+            <textarea class="form-control" id="about" name="about" rows="5" required>{{ profile.about }}</textarea>
+            <small class="text-muted">Tell employers about yourself, your experience, and what you're looking for</small>
+          </div>
+          <div class="d-flex gap-2">
+            <a href="{{ url_for('profile_page') }}" class="btn btn-outline-secondary rounded-4">Cancel</a>
+            <button type="submit" class="btn btn-primary rounded-4">Save changes</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
