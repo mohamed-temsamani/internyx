@@ -145,7 +145,9 @@ a { color: var(--primary); }
 .insight-card strong { display: block; margin-top: .9rem; }
 .insight-card p { color: var(--muted); margin: .25rem 0 0; font-size: .92rem; }
 
-.filter-panel { top: 5.5rem; background: var(--card); border: 1px solid var(--border); border-radius: 1.25rem; padding: 1.25rem; box-shadow: var(--shadow-soft); }
+.filter-panel { top: 5.5rem; background: var(--card); border: 1px solid var(--border); border-radius: 1.25rem; padding: 1.25rem; box-shadow: var(--shadow-soft); max-height: calc(100vh - 7rem); overflow-y: auto; }
+.filter-panel::-webkit-scrollbar { width: 10px; }
+.filter-panel::-webkit-scrollbar-thumb { background: rgba(180, 85, 63, .2); border-radius: 999px; }
 .filter-group { padding: 1rem 0; border-top: 1px solid var(--border); }
 .filter-group h3 { color: var(--muted); text-transform: uppercase; letter-spacing: .11em; font-size: .72rem; font-weight: 800; margin-bottom: .7rem; }
 .filter-group label { display: flex; gap: .55rem; align-items: center; font-size: .92rem; margin: .45rem 0; cursor: pointer; }
