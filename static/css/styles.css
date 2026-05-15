@@ -33,6 +33,14 @@ a { color: var(--primary); }
   border-bottom: 1px solid rgba(236, 226, 212, .8);
 }
 .navbar { min-height: 64px; }
+.brand-logo-link { padding-top: .2rem; padding-bottom: .2rem; }
+.brand-logo {
+  display: block;
+  height: 36px;
+  width: auto;
+  max-width: min(100%, 216px);
+  object-fit: contain;
+}
 .brand-mark, .profile-avatar, .avatar-link {
   background: linear-gradient(135deg, var(--primary), var(--primary-dark) 60%, var(--zellige));
   color: #fff;
@@ -213,4 +221,5 @@ a { color: var(--primary); }
   .display-5 { font-size: 2.35rem; }
   .surface-card, .section-card, .recommend-card, .internship-card, .value-card, .roadmap-card { padding: 1.1rem; }
   .card-meta strong { width: 100%; margin-left: 0 !important; }
+  .brand-logo { height: 30px; max-width: 180px; }
 }
