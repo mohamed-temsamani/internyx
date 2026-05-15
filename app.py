@@ -53,12 +53,12 @@ CAREER_PATHS = [
 
 PROFILE = {
     "initials": "YE",
-    "name": "Yasmine El Amrani",
-    "subtitle": "Computer Science · 3rd year · ENSIAS",
+    "name": "Yahya raihan",
+    "subtitle": "Computer Science · 2nd year · ENSIAS",
     "location": "Rabat, Morocco",
     "education": "ENSIAS · Class of 2027",
-    "email": "yasmine.elamrani@um5.ac.ma",
-    "about": "3rd-year CS student passionate about web development and human-centered design. Looking for a 3-month internship to apply React and TypeScript skills on a real product. Trilingual: Arabic, French, English.",
+    "email": "yahya.raihan@um5.ac.ma",
+    "about": "2nd-year CS student passionate about web development and human-centered design. Looking for a 3-month internship to apply React and TypeScript skills on a real product. Trilingual: Arabic, French, English.",
     "skills": [
         {"name": "React", "level": 85}, {"name": "TypeScript", "level": 78}, {"name": "Python", "level": 65},
         {"name": "SQL", "level": 72}, {"name": "Figma", "level": 60}, {"name": "Communication (FR/EN/AR)", "level": 90},
